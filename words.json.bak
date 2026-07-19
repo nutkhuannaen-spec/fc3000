@@ -1,0 +1,1157 @@
+[
+  {
+    "word": "apple",
+    "pos": "n.",
+    "level": "A1",
+    "th": "แอปเปิ้ล",
+    "ex": "I eat an apple every morning."
+  },
+  {
+    "word": "book",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "หนังสือ",
+    "ex": "She is reading a book."
+  },
+  {
+    "word": "water",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "น้ำ",
+    "ex": "Please drink some water."
+  },
+  {
+    "word": "house",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "บ้าน",
+    "ex": "They live in a big house."
+  },
+  {
+    "word": "dog",
+    "pos": "n.",
+    "level": "A1",
+    "th": "สุนัข",
+    "ex": "My dog loves to play outside."
+  },
+  {
+    "word": "cat",
+    "pos": "n.",
+    "level": "A1",
+    "th": "แมว",
+    "ex": "The cat is sleeping on the sofa."
+  },
+  {
+    "word": "happy",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "มีความสุข",
+    "ex": "I feel happy today."
+  },
+  {
+    "word": "sad",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "เศร้า",
+    "ex": "He looks sad after the news."
+  },
+  {
+    "word": "big",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "ใหญ่",
+    "ex": "That is a big building."
+  },
+  {
+    "word": "small",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "เล็ก",
+    "ex": "She has a small bag."
+  },
+  {
+    "word": "friend",
+    "pos": "n.",
+    "level": "A1",
+    "th": "เพื่อน",
+    "ex": "He is my best friend."
+  },
+  {
+    "word": "family",
+    "pos": "n.",
+    "level": "A1",
+    "th": "ครอบครัว",
+    "ex": "We spend time with family on weekends."
+  },
+  {
+    "word": "school",
+    "pos": "n.",
+    "level": "A1",
+    "th": "โรงเรียน",
+    "ex": "The children go to school by bus."
+  },
+  {
+    "word": "food",
+    "pos": "n.",
+    "level": "A1",
+    "th": "อาหาร",
+    "ex": "This food tastes delicious."
+  },
+  {
+    "word": "music",
+    "pos": "n.",
+    "level": "A1",
+    "th": "ดนตรี",
+    "ex": "I listen to music every day."
+  },
+  {
+    "word": "car",
+    "pos": "n.",
+    "level": "A1",
+    "th": "รถยนต์",
+    "ex": "He bought a new car."
+  },
+  {
+    "word": "day",
+    "pos": "n.",
+    "level": "A1",
+    "th": "วัน",
+    "ex": "Have a nice day!"
+  },
+  {
+    "word": "morning",
+    "pos": "n.",
+    "level": "A1",
+    "th": "เช้า",
+    "ex": "I drink coffee in the morning."
+  },
+  {
+    "word": "easy",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "ง่าย",
+    "ex": "This test is very easy."
+  },
+  {
+    "word": "difficult",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "ยาก",
+    "ex": "The exam was difficult."
+  },
+  {
+    "word": "work",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "งาน / ทำงาน",
+    "ex": "She works in a hospital."
+  },
+  {
+    "word": "play",
+    "pos": "v./n.",
+    "level": "A1",
+    "th": "เล่น",
+    "ex": "The kids play in the park."
+  },
+  {
+    "word": "eat",
+    "pos": "v.",
+    "level": "A1",
+    "th": "กิน",
+    "ex": "We eat dinner at seven."
+  },
+  {
+    "word": "drink",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "ดื่ม",
+    "ex": "He drinks tea every morning."
+  },
+  {
+    "word": "sleep",
+    "pos": "v./n.",
+    "level": "A1",
+    "th": "นอนหลับ",
+    "ex": "The baby is sleeping."
+  },
+  {
+    "word": "walk",
+    "pos": "v./n.",
+    "level": "A1",
+    "th": "เดิน",
+    "ex": "I walk to work every day."
+  },
+  {
+    "word": "love",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "รัก",
+    "ex": "She loves her family very much."
+  },
+  {
+    "word": "hot",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "ร้อน",
+    "ex": "The weather is very hot today."
+  },
+  {
+    "word": "new",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "ใหม่",
+    "ex": "I bought a new phone."
+  },
+  {
+    "word": "old",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "เก่า / แก่",
+    "ex": "This is an old building."
+  },
+  {
+    "word": "good",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "ดี",
+    "ex": "This is a good idea."
+  },
+  {
+    "word": "bad",
+    "pos": "adj.",
+    "level": "A1",
+    "th": "แย่",
+    "ex": "The weather was bad yesterday."
+  },
+  {
+    "word": "teacher",
+    "pos": "n.",
+    "level": "A1",
+    "th": "ครู",
+    "ex": "My teacher is very kind."
+  },
+  {
+    "word": "doctor",
+    "pos": "n.",
+    "level": "A1",
+    "th": "หมอ / แพทย์",
+    "ex": "The doctor examined the patient."
+  },
+  {
+    "word": "money",
+    "pos": "n.",
+    "level": "A1",
+    "th": "เงิน",
+    "ex": "I don't have much money."
+  },
+  {
+    "word": "time",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "เวลา",
+    "ex": "Do you have time to talk?"
+  },
+  {
+    "word": "year",
+    "pos": "n.",
+    "level": "A1",
+    "th": "ปี",
+    "ex": "I visit my hometown every year."
+  },
+  {
+    "word": "week",
+    "pos": "n.",
+    "level": "A1",
+    "th": "สัปดาห์",
+    "ex": "See you next week."
+  },
+  {
+    "word": "today",
+    "pos": "adv./n.",
+    "level": "A1",
+    "th": "วันนี้",
+    "ex": "What are you doing today?"
+  },
+  {
+    "word": "tomorrow",
+    "pos": "adv./n.",
+    "level": "A1",
+    "th": "พรุ่งนี้",
+    "ex": "I will call you tomorrow."
+  },
+  {
+    "word": "weather",
+    "pos": "n.",
+    "level": "A1",
+    "th": "อากาศ",
+    "ex": "The weather is nice today."
+  },
+  {
+    "word": "beach",
+    "pos": "n.",
+    "level": "A1",
+    "th": "ชายหาด",
+    "ex": "We spent the day at the beach."
+  },
+  {
+    "word": "city",
+    "pos": "n.",
+    "level": "A1",
+    "th": "เมือง",
+    "ex": "Bangkok is a very busy city."
+  },
+  {
+    "word": "country",
+    "pos": "n.",
+    "level": "A1",
+    "th": "ประเทศ",
+    "ex": "Thailand is a beautiful country."
+  },
+  {
+    "word": "garden",
+    "pos": "n.",
+    "level": "A1",
+    "th": "สวน",
+    "ex": "She grows flowers in her garden."
+  },
+  {
+    "word": "hospital",
+    "pos": "n.",
+    "level": "A1",
+    "th": "โรงพยาบาล",
+    "ex": "He works at the hospital."
+  },
+  {
+    "word": "hotel",
+    "pos": "n.",
+    "level": "A1",
+    "th": "โรงแรม",
+    "ex": "We stayed at a nice hotel."
+  },
+  {
+    "word": "letter",
+    "pos": "n.",
+    "level": "A1",
+    "th": "จดหมาย",
+    "ex": "She wrote a letter to her friend."
+  },
+  {
+    "word": "phone",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "โทรศัพท์",
+    "ex": "My phone battery is low."
+  },
+  {
+    "word": "picture",
+    "pos": "n./v.",
+    "level": "A1",
+    "th": "ภาพ / รูปภาพ",
+    "ex": "He took a picture of the sunset."
+  },
+  {
+    "word": "advice",
+    "pos": "n.",
+    "level": "A1",
+    "th": "คำแนะนำ",
+    "ex": "She gave me some good advice."
+  },
+  {
+    "word": "achieve",
+    "pos": "v.",
+    "level": "A2",
+    "th": "บรรลุผล / ประสบความสำเร็จ",
+    "ex": "He achieved his goal after years of hard work."
+  },
+  {
+    "word": "advantage",
+    "pos": "n.",
+    "level": "A2",
+    "th": "ข้อได้เปรียบ",
+    "ex": "Speaking two languages is a big advantage."
+  },
+  {
+    "word": "argue",
+    "pos": "v.",
+    "level": "A2",
+    "th": "โต้เถียง",
+    "ex": "They argued about money last night."
+  },
+  {
+    "word": "available",
+    "pos": "adj.",
+    "level": "A2",
+    "th": "ว่าง / มีให้ใช้",
+    "ex": "The manager is not available right now."
+  },
+  {
+    "word": "avoid",
+    "pos": "v.",
+    "level": "A2",
+    "th": "หลีกเลี่ยง",
+    "ex": "You should avoid eating too much sugar."
+  },
+  {
+    "word": "behavior",
+    "pos": "n.",
+    "level": "A2",
+    "th": "พฤติกรรม",
+    "ex": "His behavior surprised everyone at the party."
+  },
+  {
+    "word": "celebrate",
+    "pos": "v.",
+    "level": "A2",
+    "th": "เฉลิมฉลอง",
+    "ex": "We celebrated her birthday with a big cake."
+  },
+  {
+    "word": "community",
+    "pos": "n.",
+    "level": "A2",
+    "th": "ชุมชน",
+    "ex": "The community worked together to clean the park."
+  },
+  {
+    "word": "compare",
+    "pos": "v.",
+    "level": "A1",
+    "th": "เปรียบเทียบ",
+    "ex": "Let's compare the two prices before buying."
+  },
+  {
+    "word": "complain",
+    "pos": "v.",
+    "level": "A2",
+    "th": "บ่น / ร้องเรียน",
+    "ex": "He complained about the noisy neighbors."
+  },
+  {
+    "word": "decision",
+    "pos": "n.",
+    "level": "A2",
+    "th": "การตัดสินใจ",
+    "ex": "She made a quick decision to move abroad."
+  },
+  {
+    "word": "develop",
+    "pos": "v.",
+    "level": "A2",
+    "th": "พัฒนา",
+    "ex": "The company developed a new app."
+  },
+  {
+    "word": "discover",
+    "pos": "v.",
+    "level": "A2",
+    "th": "ค้นพบ",
+    "ex": "Scientists discovered a new planet."
+  },
+  {
+    "word": "embarrassed",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "อับอาย / เขิน",
+    "ex": "I felt embarrassed when I forgot his name."
+  },
+  {
+    "word": "encourage",
+    "pos": "v.",
+    "level": "B1",
+    "th": "ให้กำลังใจ / สนับสนุน",
+    "ex": "My parents encouraged me to study abroad."
+  },
+  {
+    "word": "environment",
+    "pos": "n.",
+    "level": "A2",
+    "th": "สิ่งแวดล้อม",
+    "ex": "We must protect the environment for future generations."
+  },
+  {
+    "word": "experience",
+    "pos": "n./v.",
+    "level": "A2",
+    "th": "ประสบการณ์",
+    "ex": "Traveling gives you a lot of experience."
+  },
+  {
+    "word": "habit",
+    "pos": "n.",
+    "level": "A2",
+    "th": "นิสัย",
+    "ex": "Reading before bed is a good habit."
+  },
+  {
+    "word": "honest",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "ซื่อสัตย์",
+    "ex": "Please be honest with me about the problem."
+  },
+  {
+    "word": "imagine",
+    "pos": "v.",
+    "level": "A1",
+    "th": "จินตนาการ / นึกภาพ",
+    "ex": "Imagine living on a tropical island."
+  },
+  {
+    "word": "improve",
+    "pos": "v.",
+    "level": "A1",
+    "th": "ปรับปรุง / พัฒนาให้ดีขึ้น",
+    "ex": "She wants to improve her English speaking."
+  },
+  {
+    "word": "independent",
+    "pos": "adj.",
+    "level": "A2",
+    "th": "เป็นอิสระ / พึ่งตนเอง",
+    "ex": "He became independent after moving out."
+  },
+  {
+    "word": "knowledge",
+    "pos": "n.",
+    "level": "A2",
+    "th": "ความรู้",
+    "ex": "Reading books increases your knowledge."
+  },
+  {
+    "word": "lonely",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "เหงา",
+    "ex": "She felt lonely after her friends moved away."
+  },
+  {
+    "word": "manage",
+    "pos": "v.",
+    "level": "A2",
+    "th": "จัดการ / บริหาร",
+    "ex": "He manages a small restaurant downtown."
+  },
+  {
+    "word": "nervous",
+    "pos": "adj.",
+    "level": "A2",
+    "th": "ประหม่า / กังวล",
+    "ex": "I always feel nervous before an exam."
+  },
+  {
+    "word": "opportunity",
+    "pos": "n.",
+    "level": "A2",
+    "th": "โอกาส",
+    "ex": "This job is a great opportunity for her."
+  },
+  {
+    "word": "patient",
+    "pos": "n./adj.",
+    "level": "A2",
+    "th": "ผู้ป่วย / อดทน",
+    "ex": "You need to be patient while learning a new skill."
+  },
+  {
+    "word": "pollution",
+    "pos": "n.",
+    "level": "A2",
+    "th": "มลพิษ",
+    "ex": "Air pollution is a serious problem in big cities."
+  },
+  {
+    "word": "promise",
+    "pos": "v./n.",
+    "level": "A2",
+    "th": "สัญญา",
+    "ex": "He promised to call her every day."
+  },
+  {
+    "word": "relationship",
+    "pos": "n.",
+    "level": "A2",
+    "th": "ความสัมพันธ์",
+    "ex": "They have a close relationship with their neighbors."
+  },
+  {
+    "word": "respect",
+    "pos": "n./v.",
+    "level": "B1",
+    "th": "ความเคารพ / เคารพ",
+    "ex": "You should respect other people's opinions."
+  },
+  {
+    "word": "succeed",
+    "pos": "v.",
+    "level": "A2",
+    "th": "ประสบความสำเร็จ",
+    "ex": "She worked hard and finally succeeded."
+  },
+  {
+    "word": "suggest",
+    "pos": "v.",
+    "level": "A2",
+    "th": "แนะนำ / เสนอ",
+    "ex": "I suggest we leave early to avoid traffic."
+  },
+  {
+    "word": "support",
+    "pos": "v./n.",
+    "level": "A2",
+    "th": "สนับสนุน",
+    "ex": "My family always supports my decisions."
+  },
+  {
+    "word": "anxious",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "กังวลใจ / วิตกกังวล",
+    "ex": "She felt anxious about the job interview."
+  },
+  {
+    "word": "apologize",
+    "pos": "v.",
+    "level": "B1",
+    "th": "ขอโทษ",
+    "ex": "He apologized for being late to the meeting."
+  },
+  {
+    "word": "appreciate",
+    "pos": "v.",
+    "level": "B1",
+    "th": "ซาบซึ้ง / เห็นคุณค่า",
+    "ex": "I really appreciate your help with this project."
+  },
+  {
+    "word": "atmosphere",
+    "pos": "n.",
+    "level": "B1",
+    "th": "บรรยากาศ",
+    "ex": "The restaurant has a cozy atmosphere."
+  },
+  {
+    "word": "attitude",
+    "pos": "n.",
+    "level": "B1",
+    "th": "ทัศนคติ",
+    "ex": "Her positive attitude inspires everyone around her."
+  },
+  {
+    "word": "awkward",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "น่าอึดอัด / เก้ๆกังๆ",
+    "ex": "There was an awkward silence after his joke."
+  },
+  {
+    "word": "benefit",
+    "pos": "n./v.",
+    "level": "A2",
+    "th": "ประโยชน์",
+    "ex": "Regular exercise has many health benefits."
+  },
+  {
+    "word": "challenge",
+    "pos": "n./v.",
+    "level": "B1",
+    "th": "ความท้าทาย",
+    "ex": "Learning a new language is a fun challenge."
+  },
+  {
+    "word": "confidence",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความมั่นใจ",
+    "ex": "Public speaking helped him build confidence."
+  },
+  {
+    "word": "convince",
+    "pos": "v.",
+    "level": "B1",
+    "th": "โน้มน้าว / ทำให้เชื่อ",
+    "ex": "She convinced her parents to let her travel alone."
+  },
+  {
+    "word": "curious",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "อยากรู้อยากเห็น",
+    "ex": "The child was curious about how things work."
+  },
+  {
+    "word": "deserve",
+    "pos": "v.",
+    "level": "B2",
+    "th": "สมควรได้รับ",
+    "ex": "You deserve a break after all that hard work."
+  },
+  {
+    "word": "determined",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "มุ่งมั่น / ตั้งใจแน่วแน่",
+    "ex": "She is determined to finish the marathon."
+  },
+  {
+    "word": "disappointed",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "ผิดหวัง",
+    "ex": "He was disappointed with his test results."
+  },
+  {
+    "word": "efficient",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "มีประสิทธิภาพ",
+    "ex": "The new system is much more efficient."
+  },
+  {
+    "word": "emotion",
+    "pos": "n.",
+    "level": "B1",
+    "th": "อารมณ์",
+    "ex": "It's normal to show your emotions sometimes."
+  },
+  {
+    "word": "exhausted",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "เหนื่อยล้ามาก",
+    "ex": "I was exhausted after the long flight."
+  },
+  {
+    "word": "generous",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "ใจกว้าง / เอื้อเฟื้อ",
+    "ex": "He is very generous with his time and money."
+  },
+  {
+    "word": "genuine",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "แท้จริง / จริงใจ",
+    "ex": "She gave me genuine advice about my career."
+  },
+  {
+    "word": "grateful",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "ซาบซึ้งใจ / รู้สึกขอบคุณ",
+    "ex": "I'm grateful for all your support this year."
+  },
+  {
+    "word": "guilty",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "รู้สึกผิด",
+    "ex": "He felt guilty for forgetting her birthday."
+  },
+  {
+    "word": "humble",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ถ่อมตัว",
+    "ex": "Despite his success, he stayed humble."
+  },
+  {
+    "word": "identity",
+    "pos": "n.",
+    "level": "B1",
+    "th": "อัตลักษณ์ / ตัวตน",
+    "ex": "Traveling helped her understand her own identity."
+  },
+  {
+    "word": "inspire",
+    "pos": "v.",
+    "level": "B1",
+    "th": "สร้างแรงบันดาลใจ",
+    "ex": "Her story inspired thousands of people."
+  },
+  {
+    "word": "instinct",
+    "pos": "n.",
+    "level": "B2",
+    "th": "สัญชาตญาณ",
+    "ex": "His instinct told him something was wrong."
+  },
+  {
+    "word": "jealous",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "อิจฉา / หึงหวง",
+    "ex": "She felt jealous of her sister's new car."
+  },
+  {
+    "word": "maintain",
+    "pos": "v.",
+    "level": "B1",
+    "th": "รักษาไว้ / บำรุงรักษา",
+    "ex": "It's important to maintain a healthy diet."
+  },
+  {
+    "word": "motivate",
+    "pos": "v.",
+    "level": "B1",
+    "th": "กระตุ้น / จูงใจ",
+    "ex": "A good coach knows how to motivate the team."
+  },
+  {
+    "word": "negotiate",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เจรจาต่อรอง",
+    "ex": "They negotiated a better price for the house."
+  },
+  {
+    "word": "overwhelmed",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "รู้สึกท่วมท้น / กดดันมาก",
+    "ex": "She felt overwhelmed by all the work."
+  },
+  {
+    "word": "persuade",
+    "pos": "v.",
+    "level": "B1",
+    "th": "โน้มน้าวใจ",
+    "ex": "He persuaded his friend to join the gym."
+  },
+  {
+    "word": "pursue",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ไล่ตาม / มุ่งไปสู่",
+    "ex": "She decided to pursue a career in medicine."
+  },
+  {
+    "word": "reliable",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "น่าเชื่อถือ / ไว้ใจได้",
+    "ex": "He is a reliable friend who always helps."
+  },
+  {
+    "word": "sincere",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "จริงใจ",
+    "ex": "Her apology sounded very sincere."
+  },
+  {
+    "word": "stubborn",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "ดื้อรั้น",
+    "ex": "My grandfather is too stubborn to ask for help."
+  },
+  {
+    "word": "tolerate",
+    "pos": "v.",
+    "level": "B2",
+    "th": "อดทนอดกลั้น / ทน",
+    "ex": "I can't tolerate this noise any longer."
+  },
+  {
+    "word": "vulnerable",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เปราะบาง / อ่อนแอ",
+    "ex": "Elderly people are more vulnerable to illness."
+  },
+  {
+    "word": "wisdom",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ปัญญา / ความฉลาด",
+    "ex": "Her grandmother's wisdom guided her decisions."
+  },
+  {
+    "word": "accomplish",
+    "pos": "v.",
+    "level": "B1",
+    "th": "ทำสำเร็จ",
+    "ex": "They accomplished the project ahead of schedule."
+  },
+  {
+    "word": "admire",
+    "pos": "v.",
+    "level": "B1",
+    "th": "ชื่นชม",
+    "ex": "I admire her courage and determination."
+  },
+  {
+    "word": "assume",
+    "pos": "v.",
+    "level": "B2",
+    "th": "สันนิษฐาน / สมมติ",
+    "ex": "Don't assume he knows what happened."
+  },
+  {
+    "word": "brave",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "กล้าหาญ",
+    "ex": "The firefighter was brave enough to save the child."
+  },
+  {
+    "word": "cheerful",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "ร่าเริง / อารมณ์ดี",
+    "ex": "She always has a cheerful smile."
+  },
+  {
+    "word": "comfort",
+    "pos": "n./v.",
+    "level": "B2",
+    "th": "ความสบายใจ / ปลอบโยน",
+    "ex": "He tried to comfort his crying friend."
+  },
+  {
+    "word": "considerate",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เห็นอกเห็นใจผู้อื่น",
+    "ex": "She is always considerate of other people's feelings."
+  },
+  {
+    "word": "creativity",
+    "pos": "n.",
+    "level": "B1",
+    "th": "ความคิดสร้างสรรค์",
+    "ex": "His creativity shows in every painting he makes."
+  },
+  {
+    "word": "devoted",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ทุ่มเท / อุทิศตน",
+    "ex": "She is devoted to helping stray animals."
+  },
+  {
+    "word": "eager",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "กระตือรือร้น",
+    "ex": "The students were eager to start the trip."
+  },
+  {
+    "word": "flexible",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ยืดหยุ่น",
+    "ex": "My work schedule is quite flexible."
+  },
+  {
+    "word": "gratitude",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความรู้สึกขอบคุณ",
+    "ex": "He expressed his gratitude with a heartfelt letter."
+  },
+  {
+    "word": "harmony",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความกลมกลืน / ความสามัคคี",
+    "ex": "The team worked in harmony to finish the project."
+  },
+  {
+    "word": "insight",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความเข้าใจอย่างลึกซึ้ง",
+    "ex": "Her advice gave me new insight into the problem."
+  },
+  {
+    "word": "loyal",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "ซื่อสัตย์ / ภักดี",
+    "ex": "A dog is often a very loyal companion."
+  },
+  {
+    "word": "optimistic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "มองโลกในแง่ดี",
+    "ex": "She stayed optimistic even during hard times."
+  },
+  {
+    "word": "passionate",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "หลงใหล / มีความรักอย่างแรงกล้า",
+    "ex": "He is passionate about photography."
+  },
+  {
+    "word": "resilient",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ยืดหยุ่น / ฟื้นตัวได้ไว",
+    "ex": "Children are often surprisingly resilient."
+  },
+  {
+    "word": "sympathy",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความเห็นอกเห็นใจ",
+    "ex": "She showed sympathy for her friend's loss."
+  },
+  {
+    "word": "thoughtful",
+    "pos": "adj.",
+    "level": "B1",
+    "th": "เอาใจใส่ / รอบคอบ",
+    "ex": "It was very thoughtful of you to remember my birthday."
+  },
+  {
+    "word": "unique",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "มีเอกลักษณ์เฉพาะตัว",
+    "ex": "Every snowflake has a unique shape."
+  },
+  {
+    "word": "witness",
+    "pos": "n./v.",
+    "level": "B2",
+    "th": "พยาน / เป็นพยาน",
+    "ex": "She witnessed the accident from across the street."
+  },
+  {
+    "word": "adapt",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ปรับตัว",
+    "ex": "It took him time to adapt to the new country."
+  },
+  {
+    "word": "ambition",
+    "pos": "n.",
+    "level": "B1",
+    "th": "ความทะเยอทะยาน",
+    "ex": "Her ambition is to become a doctor."
+  },
+  {
+    "word": "anticipate",
+    "pos": "v.",
+    "level": "B2",
+    "th": "คาดการณ์ล่วงหน้า",
+    "ex": "We anticipate a busy weekend at the shop."
+  },
+  {
+    "word": "authentic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "แท้จริง / ของแท้",
+    "ex": "This restaurant serves authentic Thai food."
+  },
+  {
+    "word": "blend",
+    "pos": "v./n.",
+    "level": "B2",
+    "th": "ผสมผสาน",
+    "ex": "The city is a blend of old and new architecture."
+  },
+  {
+    "word": "burden",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ภาระ",
+    "ex": "He didn't want to be a burden to his family."
+  },
+  {
+    "word": "cherish",
+    "pos": "v.",
+    "level": "B2",
+    "th": "หวงแหน / รักและถนอม",
+    "ex": "She cherishes every memory with her grandmother."
+  },
+  {
+    "word": "cope",
+    "pos": "v.",
+    "level": "B2",
+    "th": "รับมือ / จัดการกับ",
+    "ex": "He learned to cope with stress through exercise."
+  },
+  {
+    "word": "diverse",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "หลากหลาย",
+    "ex": "The city has a diverse population."
+  },
+  {
+    "word": "empathy",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความเห็นอกเห็นใจ",
+    "ex": "Good doctors show empathy toward their patients."
+  },
+  {
+    "word": "fulfill",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ทำให้สำเร็จ / เติมเต็ม",
+    "ex": "She worked hard to fulfill her dream."
+  },
+  {
+    "word": "grasp",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เข้าใจ / จับ",
+    "ex": "It took a while to grasp the new concept."
+  },
+  {
+    "word": "humility",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความอ่อนน้อมถ่อมตน",
+    "ex": "He accepted the award with humility."
+  },
+  {
+    "word": "illustrate",
+    "pos": "v.",
+    "level": "B2",
+    "th": "แสดงให้เห็น / อธิบายด้วยภาพ",
+    "ex": "This graph illustrates the company's growth."
+  },
+  {
+    "word": "legacy",
+    "pos": "n.",
+    "level": "B2",
+    "th": "มรดกตกทอด",
+    "ex": "He left behind an amazing legacy of kindness."
+  },
+  {
+    "word": "nurture",
+    "pos": "v.",
+    "level": "B2",
+    "th": "บ่มเพาะ / เลี้ยงดู",
+    "ex": "Parents nurture their children's talents."
+  },
+  {
+    "word": "outlook",
+    "pos": "n.",
+    "level": "B2",
+    "th": "มุมมอง / ทัศนคติ",
+    "ex": "She has a positive outlook on life."
+  },
+  {
+    "word": "perceive",
+    "pos": "v.",
+    "level": "B2",
+    "th": "รับรู้ / มองเห็น",
+    "ex": "People perceive risk differently."
+  },
+  {
+    "word": "reassure",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ทำให้อุ่นใจ / ปลอบใจ",
+    "ex": "He reassured her that everything would be fine."
+  }
+]

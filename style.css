@@ -98,10 +98,37 @@ body{
   padding:2px 8px;
 }
 
+.card-front .speak-btn{
+  position:absolute;
+  top:8px;
+  right:8px;
+  width:28px;
+  height:28px;
+  border-radius:50%;
+  border:1px solid var(--gray-dark);
+  background:transparent;
+  color:var(--white);
+  font-size:13px;
+  line-height:1;
+  cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  transition:background 0.2s;
+}
+
+.card-front .speak-btn:hover{ background:var(--gray-dark); }
+
 .card-front .word{
   font-size:26px;
   font-weight:700;
   word-break:break-word;
+}
+
+.card-front .pron{
+  margin-top:4px;
+  font-size:12px;
+  color:var(--gray);
 }
 
 .card-front .pos{
@@ -154,6 +181,14 @@ body{
 }
 
 .btn-primary:hover{ opacity:0.8; }
+
+.btn-secondary{
+  background:var(--white);
+  color:var(--black);
+  border:1px solid var(--gray-light);
+}
+
+.btn-secondary:hover{ background:var(--gray-light); }
 
 .hint{
   color:var(--gray);

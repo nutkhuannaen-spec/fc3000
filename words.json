@@ -36150,5 +36150,4005 @@
     "th": "ซูม / เคลื่อนที่อย่างรวดเร็ว",
     "ex": "The car zoomed past us on the highway.",
     "pron": "ซูม"
+  },
+  {
+    "word": "abide",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ทนได้ / ยอมรับปฏิบัติตาม",
+    "ex": "I can't abide people who are always late.",
+    "pron": "อะ-ไบ้ด์"
+  },
+  {
+    "word": "absorbent",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ดูดซับได้ดี",
+    "ex": "This towel is very absorbent and dries quickly.",
+    "pron": "แอ็บ-ซอร์-เบิ่นท์"
+  },
+  {
+    "word": "accord",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ข้อตกลง / ความสอดคล้อง",
+    "ex": "The two neighbors finally reached an accord about the fence.",
+    "pron": "อะ-คอร์ด"
+  },
+  {
+    "word": "addictive",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ที่ทำให้ติด",
+    "ex": "Social media can be surprisingly addictive.",
+    "pron": "อะ-ดิ๊ก-ทิฟว์"
+  },
+  {
+    "word": "advent",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การมาถึง / กำเนิด",
+    "ex": "The advent of the internet changed everything.",
+    "pron": "แอ๊ด-เว้นท์"
+  },
+  {
+    "word": "advocacy",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การสนับสนุน / การรณรงค์",
+    "ex": "She works in advocacy for children's rights.",
+    "pron": "แอ๊ด-โว-คะ-ซี่"
+  },
+  {
+    "word": "affirm",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ยืนยัน",
+    "ex": "The judge affirmed the court's original decision.",
+    "pron": "อะ-เฟิร์ม"
+  },
+  {
+    "word": "affirmative",
+    "pos": "adj., n.",
+    "level": "B2",
+    "th": "ที่ตอบรับ / คำตอบรับ",
+    "ex": "She answered in the affirmative.",
+    "pron": "อะ-เฟอร์-มะ-ทิฟว์"
+  },
+  {
+    "word": "afflict",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ทำให้ทุกข์ทรมาน / รบกวน",
+    "ex": "The disease afflicts thousands of people each year.",
+    "pron": "อะ-ฟลิ๊กท์"
+  },
+  {
+    "word": "agitate",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ทำให้กระวนกระวาย / ปั่นป่วน",
+    "ex": "The news seemed to agitate him greatly.",
+    "pron": "แอ๊จ-จิ-เท่ท์"
+  },
+  {
+    "word": "agitation",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความกระวนกระวาย",
+    "ex": "There was a sense of agitation in the crowd.",
+    "pron": "แอ๊จ-จิ-เท้-ชั่น"
+  },
+  {
+    "word": "allege",
+    "pos": "v.",
+    "level": "B2",
+    "th": "กล่าวหา (โดยยังไม่มีหลักฐานแน่ชัด)",
+    "ex": "The report alleges that the company broke the law.",
+    "pron": "อะ-เล้จ"
+  },
+  {
+    "word": "allocation",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การจัดสรร",
+    "ex": "The budget allocation for schools increased this year.",
+    "pron": "แอล-โล-เค้-ชั่น"
+  },
+  {
+    "word": "appraisal",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การประเมิน",
+    "ex": "My manager gave me a positive performance appraisal.",
+    "pron": "อะ-เพร-ซั่ล"
+  },
+  {
+    "word": "arbitrary",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ตามอำเภอใจ / ไม่มีเหตุผลชัดเจน",
+    "ex": "The rule seemed completely arbitrary to the students.",
+    "pron": "อาร์-บิ-เทร-รี่"
+  },
+  {
+    "word": "articulate",
+    "pos": "adj., v.",
+    "level": "B2",
+    "th": "พูดจาชัดเจน / แสดงออกอย่างชัดเจน",
+    "ex": "She is an articulate speaker who explains ideas clearly.",
+    "pron": "อาร์-ทิ้ค-คิว-เหลท"
+  },
+  {
+    "word": "assertive",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "กล้าแสดงออก / มั่นใจในการยืนยัน",
+    "ex": "He learned to be more assertive at work.",
+    "pron": "อะ-เซอร์-ทิฟว์"
+  },
+  {
+    "word": "asset",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ทรัพย์สิน / จุดแข็ง",
+    "ex": "Good communication skills are a real asset.",
+    "pron": "แอ๊ส-เซ็ท"
+  },
+  {
+    "word": "attain",
+    "pos": "v.",
+    "level": "B2",
+    "th": "บรรลุ / ได้มาซึ่ง",
+    "ex": "She worked hard to attain her career goals.",
+    "pron": "อะ-เท้น"
+  },
+  {
+    "word": "audit",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "การตรวจสอบบัญชี / ตรวจสอบ",
+    "ex": "The company will undergo a financial audit next month.",
+    "pron": "ออ-ดิท"
+  },
+  {
+    "word": "aberration",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความผิดปกติ / สิ่งเบี่ยงเบนจากปกติ",
+    "ex": "The bad result was just a temporary aberration.",
+    "pron": "แอ็บ-เบอ-เร้-ชั่น"
+  },
+  {
+    "word": "abrasive",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "หยาบกระด้าง / กัดกร่อน",
+    "ex": "His abrasive manner upset several colleagues.",
+    "pron": "อะ-เบร-ซิฟว์"
+  },
+  {
+    "word": "abstinence",
+    "pos": "n.",
+    "level": "C1",
+    "th": "การละเว้น / การอดกลั้น",
+    "ex": "He practiced abstinence from alcohol for a year.",
+    "pron": "แอ๊บ-สติ-เน่นซ์"
+  },
+  {
+    "word": "accolade",
+    "pos": "n.",
+    "level": "C1",
+    "th": "รางวัลเชิดชูเกียรติ / คำชื่นชม",
+    "ex": "The film received many accolades from critics.",
+    "pron": "แอ๊ค-โค-เหลด"
+  },
+  {
+    "word": "acquiesce",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ยอมทำตาม (โดยไม่เต็มใจนัก)",
+    "ex": "He reluctantly acquiesced to his boss's demands.",
+    "pron": "แอ็ก-วี-เอ๊ส"
+  },
+  {
+    "word": "acumen",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ไหวพริบ / ความเฉียบแหลม",
+    "ex": "Her business acumen helped the company grow fast.",
+    "pron": "แอ๊ค-คิว-เม่น"
+  },
+  {
+    "word": "adamant",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ยืนกราน / ดื้อรั้นไม่ยอมเปลี่ยนใจ",
+    "ex": "She was adamant that she would not resign.",
+    "pron": "แอ๊ด-ดะ-เม่นท์"
+  },
+  {
+    "word": "admonish",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ตักเตือน / ว่ากล่าว",
+    "ex": "The teacher admonished the students for being late.",
+    "pron": "แอด-ม้อน-นิช"
+  },
+  {
+    "word": "adroit",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ชำนาญ / คล่องแคล่ว",
+    "ex": "She is adroit at handling difficult customers.",
+    "pron": "อะ-ดร้อยท์"
+  },
+  {
+    "word": "affable",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เป็นมิตร / อัธยาศัยดี",
+    "ex": "The affable host made everyone feel welcome.",
+    "pron": "แอ๊ฟ-ฟะ-เบิ้ล"
+  },
+  {
+    "word": "aggregate",
+    "pos": "adj., n.",
+    "level": "C1",
+    "th": "รวมทั้งหมด / ผลรวม",
+    "ex": "The aggregate score of all tests was quite high.",
+    "pron": "แอ๊ก-กริ-เกท"
+  },
+  {
+    "word": "allude",
+    "pos": "v.",
+    "level": "C1",
+    "th": "พาดพิงถึง / กล่าวเป็นนัย",
+    "ex": "She alluded to problems in her previous job.",
+    "pron": "อะ-ลูด"
+  },
+  {
+    "word": "ambivalent",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "รู้สึกสองจิตสองใจ / ลังเล",
+    "ex": "He felt ambivalent about moving to a new city.",
+    "pron": "แอม-บิ๊ฟ-วะ-เหลิ่นท์"
+  },
+  {
+    "word": "bask",
+    "pos": "v.",
+    "level": "B2",
+    "th": "อาบแดด / เพลิดเพลินกับความสุข",
+    "ex": "The cat loves to bask in the warm sunlight.",
+    "pron": "แบสค์"
+  },
+  {
+    "word": "bearer",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ผู้ถือ / ผู้นำ(สาร/สิ่งของ)",
+    "ex": "He acted as the bearer of bad news to the team.",
+    "pron": "แบ-เร่อร์"
+  },
+  {
+    "word": "bicker",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ทะเลาะกันเรื่องเล็กน้อย",
+    "ex": "The children bickered about whose turn it was.",
+    "pron": "บิ๊ค-เค่อร์"
+  },
+  {
+    "word": "bid",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "การประมูล / การเสนอราคา",
+    "ex": "The company placed the highest bid for the contract.",
+    "pron": "บิด"
+  },
+  {
+    "word": "blaze",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "เปลวไฟ / ลุกโชติช่วง",
+    "ex": "Firefighters worked all night to control the blaze.",
+    "pron": "เบลซ"
+  },
+  {
+    "word": "blueprint",
+    "pos": "n.",
+    "level": "B2",
+    "th": "พิมพ์เขียว / แผนแม่แบบ",
+    "ex": "This plan could be a blueprint for future projects.",
+    "pron": "บลู-พรินท์"
+  },
+  {
+    "word": "bluff",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "การบลัฟ / หลอกให้เชื่อ",
+    "ex": "He was just bluffing when he said he'd quit.",
+    "pron": "บลัฟฟ์"
+  },
+  {
+    "word": "bout",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ช่วงระยะ (ของอาการ/การแข่งขัน)",
+    "ex": "She had a bad bout of flu last winter.",
+    "pron": "เบาท์"
+  },
+  {
+    "word": "brainstorm",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "ระดมความคิด",
+    "ex": "Let's brainstorm some ideas for the new project.",
+    "pron": "เบรน-สตอร์ม"
+  },
+  {
+    "word": "bracket",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "วงเล็บ / กลุ่ม(ช่วงรายได้ ฯลฯ)",
+    "ex": "She falls into the highest income tax bracket.",
+    "pron": "แบร็ค-เค่ท"
+  },
+  {
+    "word": "breakdown",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การพังทลาย / การแจกแจงรายละเอียด",
+    "ex": "The report gives a breakdown of monthly expenses.",
+    "pron": "เบรค-ดาวน์"
+  },
+  {
+    "word": "brink",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ขอบเหว / จุดวิกฤต",
+    "ex": "The company was on the brink of bankruptcy.",
+    "pron": "บริงค์"
+  },
+  {
+    "word": "broaden",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ขยายให้กว้างขึ้น",
+    "ex": "Traveling really helped broaden her perspective.",
+    "pron": "บรอ-เดิ่น"
+  },
+  {
+    "word": "bruise",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "รอยฟกช้ำ / ทำให้ฟกช้ำ",
+    "ex": "She got a bruise on her knee after falling.",
+    "pron": "บรูซ"
+  },
+  {
+    "word": "buffer",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "ตัวกันชน / ลดผลกระทบ",
+    "ex": "Savings can act as a buffer during hard times.",
+    "pron": "บั๊ฟ-เฟ่อร์"
+  },
+  {
+    "word": "bulky",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เทอะทะ / เก้งก้าง",
+    "ex": "The old television was too bulky to carry alone.",
+    "pron": "บัล-คี่"
+  },
+  {
+    "word": "bureaucracy",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ระบบราชการ / ระบบเอกสารซับซ้อน",
+    "ex": "Starting a business here involves a lot of bureaucracy.",
+    "pron": "บิว-รอค-คระ-ซี่"
+  },
+  {
+    "word": "bode",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เป็นลางบอกเหตุ",
+    "ex": "Dark clouds bode a storm later tonight.",
+    "pron": "โบด"
+  },
+  {
+    "word": "bogus",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ปลอม / เก๊",
+    "ex": "The email turned out to be a bogus offer.",
+    "pron": "โบ-กัส"
+  },
+  {
+    "word": "brash",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "หุนหันพลันแล่น / บุ่มบ่าม",
+    "ex": "His brash comments offended several guests.",
+    "pron": "แบรช"
+  },
+  {
+    "word": "budge",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ขยับเขยื้อน / เปลี่ยนใจ",
+    "ex": "The stubborn donkey wouldn't budge an inch.",
+    "pron": "บัดจ์"
+  },
+  {
+    "word": "blemish",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ตำหนิ / รอยด่างพร้อย",
+    "ex": "A small blemish on the fruit doesn't affect the taste.",
+    "pron": "เบล๊-มิช"
+  },
+  {
+    "word": "bloated",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "บวม / พองโต",
+    "ex": "I felt bloated after eating such a big meal.",
+    "pron": "โบล๊-เท็ด"
+  },
+  {
+    "word": "biodegradable",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ย่อยสลายได้ตามธรรมชาติ",
+    "ex": "The company switched to biodegradable packaging last year.",
+    "pron": "ไบ-โอ-ดิ-เกร๊-ดะ-เบิ้ล"
+  },
+  {
+    "word": "buckle",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "โค้งงอ / หัวเข็มขัด",
+    "ex": "His knees buckled from exhaustion after the race.",
+    "pron": "บั๊ค-เคิ้ล"
+  },
+  {
+    "word": "balk",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ลังเล / ขัดขืนไม่ทำ",
+    "ex": "Many customers balked at the sudden price increase.",
+    "pron": "บอล์ค"
+  },
+  {
+    "word": "banal",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ซ้ำซาก / ธรรมดาไร้สาระ",
+    "ex": "The movie's plot felt banal and predictable.",
+    "pron": "บะ-แนล"
+  },
+  {
+    "word": "bestow",
+    "pos": "v.",
+    "level": "C1",
+    "th": "มอบให้ / ประทานให้",
+    "ex": "The university bestowed an honorary degree on her.",
+    "pron": "บิ-สโตว์"
+  },
+  {
+    "word": "blockade",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "การปิดกั้น / สิ่งกีดขวาง",
+    "ex": "Heavy snow created a blockade across the mountain road.",
+    "pron": "บล็อค-เค้ด"
+  },
+  {
+    "word": "boon",
+    "pos": "n.",
+    "level": "C1",
+    "th": "สิ่งที่เป็นประโยชน์อย่างยิ่ง",
+    "ex": "The new highway has been a boon for local businesses.",
+    "pron": "บูน"
+  },
+  {
+    "word": "bountiful",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "อุดมสมบูรณ์ / มากมาย",
+    "ex": "The farmers enjoyed a bountiful harvest this year.",
+    "pron": "เบาน์-ทิ-ฟุล"
+  },
+  {
+    "word": "brevity",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความกระชับ / ความสั้น",
+    "ex": "Good writers value brevity and clear language.",
+    "pron": "เบร๊ฟ-วิ-ที่"
+  },
+  {
+    "word": "bristle",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "ขนลุก / โกรธจัด",
+    "ex": "She bristled at the unfair criticism from her boss.",
+    "pron": "บริส-เซิ่ล"
+  },
+  {
+    "word": "brood",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "ครุ่นคิดกังวล",
+    "ex": "He tends to brood over small mistakes for days.",
+    "pron": "บรูด"
+  },
+  {
+    "word": "cache",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ที่สะสม / คลังเก็บ(ข้อมูล/สิ่งของ)",
+    "ex": "The browser stores images in a temporary cache.",
+    "pron": "แคช"
+  },
+  {
+    "word": "cascade",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "น้ำตกขั้นบันได / ไหลลดหลั่นเป็นทอดๆ",
+    "ex": "One mistake caused a cascade of problems later.",
+    "pron": "แคส-เค้ด"
+  },
+  {
+    "word": "catastrophe",
+    "pos": "n.",
+    "level": "B2",
+    "th": "หายนะ / ภัยพิบัติ",
+    "ex": "The flood was a catastrophe for the whole village.",
+    "pron": "คะ-แทส-โทร-ฟี่"
+  },
+  {
+    "word": "censor",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "เซ็นเซอร์ / ผู้ตรวจสอบเนื้อหา",
+    "ex": "The school decided to censor certain articles in the newsletter.",
+    "pron": "เซ็น-เซ่อร์"
+  },
+  {
+    "word": "censorship",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การเซ็นเซอร์ / การตรวจสอบควบคุมสื่อ",
+    "ex": "Strict censorship kept the documentary from being released.",
+    "pron": "เซ็น-เซ่อร์-ชิพ"
+  },
+  {
+    "word": "chant",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "การตะโกนเป็นจังหวะ / การสวด",
+    "ex": "The fans began to chant the team's name loudly.",
+    "pron": "ชานท์"
+  },
+  {
+    "word": "chatter",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "การพูดจ้อ / เสียงพูดจ้อกแจ้ก",
+    "ex": "The classroom was full of chatter before the test.",
+    "pron": "แชท-เท่อร์"
+  },
+  {
+    "word": "choke",
+    "pos": "v.",
+    "level": "B2",
+    "th": "สำลัก / หายใจไม่ออก",
+    "ex": "He almost choked on a piece of chicken bone.",
+    "pron": "โชค"
+  },
+  {
+    "word": "chore",
+    "pos": "n.",
+    "level": "B2",
+    "th": "งานบ้าน / งานจุกจิกที่ต้องทำประจำ",
+    "ex": "Washing the dishes is my least favorite chore.",
+    "pron": "ชอร์"
+  },
+  {
+    "word": "clamp",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "หนีบ / บีบรัด",
+    "ex": "The city plans to clamp down on illegal parking.",
+    "pron": "แคลมพ์"
+  },
+  {
+    "word": "clog",
+    "pos": "v.",
+    "level": "B2",
+    "th": "อุดตัน",
+    "ex": "Fallen leaves often clog the drains in autumn.",
+    "pron": "คล็อก"
+  },
+  {
+    "word": "cognitive",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เกี่ยวกับการรับรู้ / ความคิดความเข้าใจ",
+    "ex": "Regular reading can improve children's cognitive skills.",
+    "pron": "ค็อก-นิ-ทิฟว์"
+  },
+  {
+    "word": "colossal",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "มหึมา / มหาศาล",
+    "ex": "Building the bridge was a colossal engineering task.",
+    "pron": "คะ-ลอส-เซิ่ล"
+  },
+  {
+    "word": "comeback",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การกลับมาอีกครั้ง",
+    "ex": "The singer made a surprising comeback last year.",
+    "pron": "คัม-แบ็ค"
+  },
+  {
+    "word": "catastrophic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ที่นำมาซึ่งหายนะ / ร้ายแรงมาก",
+    "ex": "The earthquake had catastrophic effects on the city.",
+    "pron": "แคท-ทะ-สตรอฟ-ฟิค"
+  },
+  {
+    "word": "calibrate",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ปรับเทียบ / ปรับให้แม่นยำ",
+    "ex": "Technicians calibrate the machine every morning.",
+    "pron": "แคล-ลิ-เบรท"
+  },
+  {
+    "word": "callous",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ไร้ความรู้สึก / เย็นชา",
+    "ex": "His callous remarks hurt her deeply.",
+    "pron": "แคล-เลิส"
+  },
+  {
+    "word": "candor",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความตรงไปตรงมา / ความจริงใจ",
+    "ex": "She spoke with surprising candor about her failures.",
+    "pron": "แคน-เด่อร์"
+  },
+  {
+    "word": "canvass",
+    "pos": "v.",
+    "level": "C1",
+    "th": "หาเสียง / สำรวจความคิดเห็น",
+    "ex": "Volunteers canvassed the neighborhood to gather opinions on the new park.",
+    "pron": "แคน-เวิส"
+  },
+  {
+    "word": "capricious",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เอาแน่เอานอนไม่ได้ / แปรปรวน",
+    "ex": "The weather in the mountains can be quite capricious.",
+    "pron": "คะ-พริ๊ช-เชิส"
+  },
+  {
+    "word": "caricature",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "ภาพล้อเลียน",
+    "ex": "The artist drew a funny caricature of the famous actor.",
+    "pron": "แค-ริ-คะ-เชอร์"
+  },
+  {
+    "word": "categorical",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ชัดเจนแน่นอน / เด็ดขาด",
+    "ex": "She gave a categorical denial of the accusations.",
+    "pron": "แคท-ทะ-กอ-ริ-เคิ่ล"
+  },
+  {
+    "word": "cavalier",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "มองข้ามความสำคัญ / ไม่ใส่ใจ",
+    "ex": "He was cavalier about the risks involved in the plan.",
+    "pron": "แคฟ-วะ-เลียร์"
+  },
+  {
+    "word": "chasm",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ช่องว่างขนาดใหญ่ / หุบเหวลึก",
+    "ex": "There is a huge chasm between their views on how to run the company.",
+    "pron": "แคซ-เซิ่ม"
+  },
+  {
+    "word": "chronicle",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "บันทึกเหตุการณ์ / บันทึกตามลำดับเวลา",
+    "ex": "The book chronicles the history of the small town.",
+    "pron": "ครอน-นิ-เคิ่ล"
+  },
+  {
+    "word": "churn",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "กวน / ปั่นป่วน / อัตราการเปลี่ยนแปลงลูกค้า",
+    "ex": "The factory can churn out hundreds of products daily.",
+    "pron": "เชิร์น"
+  },
+  {
+    "word": "civility",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความสุภาพ / มารยาทที่ดี",
+    "ex": "The classroom debate was conducted with civility and respect.",
+    "pron": "ซิ-วิล-ลิ-ที่"
+  },
+  {
+    "word": "clamor",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "เสียงเรียกร้องเซ็งแซ่ / ร้องเรียกอย่างอึกทึก",
+    "ex": "There was a public clamor for better bus services in town.",
+    "pron": "แคล๊-เม่อร์"
+  },
+  {
+    "word": "clout",
+    "pos": "n.",
+    "level": "C1",
+    "th": "อิทธิพล / อำนาจต่อรอง",
+    "ex": "The company has a lot of clout in the fashion industry.",
+    "pron": "เคลาท์"
+  },
+  {
+    "word": "coax",
+    "pos": "v.",
+    "level": "C1",
+    "th": "เกลี้ยกล่อม / ปลอบโยนให้ทำ",
+    "ex": "She coaxed the shy child into joining the game.",
+    "pron": "โค้กซ์"
+  },
+  {
+    "word": "cohesive",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เกาะเกี่ยวเป็นหนึ่งเดียว / สามัคคี",
+    "ex": "The team became more cohesive after the retreat.",
+    "pron": "โค-ฮี-ซิฟว์"
+  },
+  {
+    "word": "collateral",
+    "pos": "n., adj.",
+    "level": "C1",
+    "th": "หลักประกัน / ผลพลอยได้(ที่ไม่ตั้งใจ)",
+    "ex": "The bank required collateral before approving the loan.",
+    "pron": "คะ-แล๊ท-เท่อ-เริ่ล"
+  },
+  {
+    "word": "commendable",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "น่ายกย่อง / น่าชมเชย",
+    "ex": "Her effort to help others was truly commendable.",
+    "pron": "คะ-เม็น-ดะ-เบิ้ล"
+  },
+  {
+    "word": "daring",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "กล้าหาญ / บ้าบิ่น",
+    "ex": "She made a daring decision to quit her job and travel.",
+    "pron": "แด-ริ่ง"
+  },
+  {
+    "word": "deduction",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การหักลบ / การอนุมาน",
+    "ex": "He made a deduction based on the clues in the room.",
+    "pron": "ดิ-ดัก-เชิ่น"
+  },
+  {
+    "word": "defect",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ข้อบกพร่อง",
+    "ex": "The phone was returned because of a manufacturing defect.",
+    "pron": "ดี๊-เฟ็คท์"
+  },
+  {
+    "word": "defiance",
+    "pos": "n.",
+    "level": "C1",
+    "th": "การท้าทาย / การขัดขืน",
+    "ex": "The workers marched in defiance of the new rules.",
+    "pron": "ดิ-ไฟ-เอิ่นส์"
+  },
+  {
+    "word": "deficient",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ขาดแคลน / บกพร่อง",
+    "ex": "A diet deficient in vitamins can cause health problems.",
+    "pron": "ดิ-ฟิช-เชิ่นท์"
+  },
+  {
+    "word": "defy",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ท้าทาย / ขัดขืน",
+    "ex": "The teenager decided to defy his parents' wishes.",
+    "pron": "ดิ-ไฟ"
+  },
+  {
+    "word": "dejected",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "หดหู่ใจ / ท้อแท้",
+    "ex": "He looked dejected after failing the exam.",
+    "pron": "ดิ-เจ็ค-เท็ด"
+  },
+  {
+    "word": "delectable",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "อร่อยเลิศ",
+    "ex": "The restaurant served a delectable three-course meal.",
+    "pron": "ดิ-เล็ค-ทะ-เบิ้ล"
+  },
+  {
+    "word": "deliberation",
+    "pos": "n.",
+    "level": "C1",
+    "th": "การพิจารณาอย่างรอบคอบ",
+    "ex": "After much deliberation, the jury reached a verdict.",
+    "pron": "ดิ-ลิบ-เบอะ-เร-ชั่น"
+  },
+  {
+    "word": "demise",
+    "pos": "n.",
+    "level": "C1",
+    "th": "การล่มสลาย / การถึงแก่กรรม",
+    "ex": "Poor management led to the company's demise.",
+    "pron": "ดิ-ไมซ์"
+  },
+  {
+    "word": "denial",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การปฏิเสธ",
+    "ex": "He is still in denial about losing his job.",
+    "pron": "ดิ-ไน-เอิ้ล"
+  },
+  {
+    "word": "dependable",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไว้วางใจได้ / เชื่อถือได้",
+    "ex": "My sister is very dependable in an emergency.",
+    "pron": "ดิ-เพ็น-ดะ-เบิ้ล"
+  },
+  {
+    "word": "deputy",
+    "pos": "n.",
+    "level": "B2",
+    "th": "รอง / ผู้ช่วย",
+    "ex": "She was promoted to deputy manager last month.",
+    "pron": "เด็พ-พิว-ที่"
+  },
+  {
+    "word": "descent",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การลง / เชื้อสาย",
+    "ex": "The plane began its descent toward the airport.",
+    "pron": "ดิ-เซ็นท์"
+  },
+  {
+    "word": "desperation",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความสิ้นหวัง / ความอับจน",
+    "ex": "In desperation, she borrowed money from a stranger.",
+    "pron": "เด็ส-เพอะ-เร-ชั่น"
+  },
+  {
+    "word": "despicable",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "น่ารังเกียจ / เลวทราม",
+    "ex": "Cheating on the exam was a despicable thing to do.",
+    "pron": "ดิ-สปิ๊ค-คะ-เบิ้ล"
+  },
+  {
+    "word": "detached",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "แยกตัว / วางเฉย",
+    "ex": "He remained detached during the emotional discussion.",
+    "pron": "ดิ-แท็ชท์"
+  },
+  {
+    "word": "deter",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ยับยั้ง / ขัดขวาง",
+    "ex": "High fences are meant to deter burglars.",
+    "pron": "ดิ-เท่อร์"
+  },
+  {
+    "word": "detriment",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความเสียหาย / ผลเสีย",
+    "ex": "He worked overtime to the detriment of his health.",
+    "pron": "เด็ท-ทริ-เม่นท์"
+  },
+  {
+    "word": "devious",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เจ้าเล่ห์ / มีเลศนัย",
+    "ex": "The manager used devious tactics to win the deal.",
+    "pron": "ดี-เวีย-เอิส"
+  },
+  {
+    "word": "devour",
+    "pos": "v.",
+    "level": "B2",
+    "th": "กินอย่างตะกละ / เสพอย่างรวดเร็ว",
+    "ex": "The boys devoured the pizza in minutes.",
+    "pron": "ดิ-เวา-เอ่อร์"
+  },
+  {
+    "word": "dictate",
+    "pos": "v.",
+    "level": "B2",
+    "th": "กำหนด / บงการ",
+    "ex": "Weather conditions will dictate our travel plans.",
+    "pron": "ดิค-เท่ท"
+  },
+  {
+    "word": "diligence",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความขยันหมั่นเพียร",
+    "ex": "She completed the project with great diligence.",
+    "pron": "ดิ๊ล-ลิ-เจิ่นส์"
+  },
+  {
+    "word": "diplomat",
+    "pos": "n.",
+    "level": "B2",
+    "th": "นักการทูต",
+    "ex": "Her father worked as a diplomat in three countries.",
+    "pron": "ดิพ-โล-แม็ท"
+  },
+  {
+    "word": "dispute",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "ข้อพิพาท / โต้แย้ง",
+    "ex": "The two neighbors had a dispute over the fence.",
+    "pron": "ดิส-พิวท์"
+  },
+  {
+    "word": "easygoing",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ใจเย็น / เป็นมิตรง่าย",
+    "ex": "My roommate is easygoing and never gets angry.",
+    "pron": "อี๊-ซี่-โก-อิ่ง"
+  },
+  {
+    "word": "ebb",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "ลดลง / ถดถอย",
+    "ex": "Her enthusiasm began to ebb after months of no progress.",
+    "pron": "เอ็บ"
+  },
+  {
+    "word": "eclectic",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "หลากหลายผสมผสาน",
+    "ex": "The cafe has an eclectic mix of furniture styles.",
+    "pron": "อิ-เคล็ค-ทิค"
+  },
+  {
+    "word": "ecstatic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ปีติยินดีอย่างมาก / ดีใจสุดขีด",
+    "ex": "She was ecstatic when she got accepted to the university.",
+    "pron": "เอ็ค-สแท็ท-ทิค"
+  },
+  {
+    "word": "effortless",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ง่ายดาย / ไม่ต้องออกแรง",
+    "ex": "The dancer made the difficult routine look effortless.",
+    "pron": "เอ็ฟ-เฟิร์ท-เลส"
+  },
+  {
+    "word": "elapse",
+    "pos": "v.",
+    "level": "B2",
+    "th": "(เวลา) ผ่านไป / ล่วงเลยไป",
+    "ex": "Two hours had elapsed before the doctor arrived.",
+    "pron": "อิ-แลปส์"
+  },
+  {
+    "word": "elude",
+    "pos": "v.",
+    "level": "C1",
+    "th": "หลบเลี่ยง / ยากจะเข้าใจ",
+    "ex": "The answer to the puzzle continued to elude him.",
+    "pron": "อิ-ลู้ด"
+  },
+  {
+    "word": "embellish",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ตกแต่งเพิ่มเติม / เสริมแต่งเรื่องราว",
+    "ex": "He tends to embellish his stories to sound impressive.",
+    "pron": "เอ็ม-เบล-ลิช"
+  },
+  {
+    "word": "emphatic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เน้นย้ำหนักแน่น / ชัดเจนแน่วแน่",
+    "ex": "The coach gave an emphatic 'no' to the request.",
+    "pron": "เอ็ม-แฟ็ท-ทิค"
+  },
+  {
+    "word": "empower",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เสริมพลัง / ให้อำนาจ",
+    "ex": "The program aims to empower young women through education.",
+    "pron": "เอ็ม-เพา-เอ่อร์"
+  },
+  {
+    "word": "emulate",
+    "pos": "v.",
+    "level": "C1",
+    "th": "เลียนแบบ / ทำตามอย่าง",
+    "ex": "Young athletes often emulate their favorite sports stars.",
+    "pron": "เอ็ม-มิว-เลท"
+  },
+  {
+    "word": "encroach",
+    "pos": "v.",
+    "level": "C1",
+    "th": "รุกล้ำ / ล่วงล้ำ",
+    "ex": "The new building will encroach on the public park.",
+    "pron": "เอ็น-โครช"
+  },
+  {
+    "word": "endearing",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "น่ารักน่าเอ็นดู",
+    "ex": "He has an endearing habit of humming while he works.",
+    "pron": "เอ็น-เดีย-ริ่ง"
+  },
+  {
+    "word": "enlist",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ขอความช่วยเหลือ / สมัครเป็นทหาร",
+    "ex": "They enlisted the help of local volunteers for the cleanup.",
+    "pron": "เอ็น-ลิสท์"
+  },
+  {
+    "word": "enrage",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ทำให้โกรธมาก / ทำให้เดือดดาล",
+    "ex": "The unfair decision enraged the entire team.",
+    "pron": "เอ็น-เรจ"
+  },
+  {
+    "word": "entangle",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ทำให้พัวพัน / ทำให้ยุ่งเหยิง",
+    "ex": "The kite string became entangled in the tree branches.",
+    "pron": "เอ็น-แทง-เกิ้ล"
+  },
+  {
+    "word": "entrenched",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ฝังรากลึก / ยึดติดเหนียวแน่น",
+    "ex": "Old habits are deeply entrenched and hard to change.",
+    "pron": "เอ็น-เทร็นชท์"
+  },
+  {
+    "word": "entrust",
+    "pos": "v.",
+    "level": "B2",
+    "th": "มอบความไว้วางใจ / ฝากฝัง",
+    "ex": "She entrusted her neighbor with a spare key.",
+    "pron": "เอ็น-ทรัสท์"
+  },
+  {
+    "word": "envisage",
+    "pos": "v.",
+    "level": "C1",
+    "th": "จินตนาการ / คาดการณ์ไว้",
+    "ex": "It's hard to envisage how the city will look in fifty years.",
+    "pron": "เอ็น-วิซ-ซิจ"
+  },
+  {
+    "word": "ephemeral",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ชั่วครู่ชั่วยาม / ไม่ยั่งยืน",
+    "ex": "Fame on social media can be ephemeral.",
+    "pron": "อิ-เฟ็ม-เมอะ-เริ่ล"
+  },
+  {
+    "word": "epitome",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ตัวอย่างที่สมบูรณ์แบบที่สุด",
+    "ex": "This restaurant is the epitome of fine dining.",
+    "pron": "อิ-พิท-โท-มี"
+  },
+  {
+    "word": "equitable",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ยุติธรรม / เท่าเทียมกัน",
+    "ex": "The company promised a more equitable pay structure.",
+    "pron": "เอ๊ค-ควิ-ทะ-เบิ้ล"
+  },
+  {
+    "word": "equity",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความเสมอภาค / ส่วนของผู้ถือหุ้น",
+    "ex": "The charity works to promote equity in education.",
+    "pron": "เอ๊ค-ควิ-ที่"
+  },
+  {
+    "word": "erratic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไม่แน่นอน / แปรปรวน",
+    "ex": "His erratic driving scared all the passengers.",
+    "pron": "อิ-แร็ท-ทิค"
+  },
+  {
+    "word": "esteem",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความนับถือ / ความภาคภูมิใจในตนเอง",
+    "ex": "Winning the award boosted her self-esteem.",
+    "pron": "เอส-ที๊ม"
+  },
+  {
+    "word": "factual",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ตามข้อเท็จจริง",
+    "ex": "The reporter was praised for her factual and unbiased article.",
+    "pron": "แฟ็ค-ชวล"
+  },
+  {
+    "word": "falsehood",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความเท็จ / คำโกหก",
+    "ex": "The politician was accused of spreading falsehoods.",
+    "pron": "ฟอลส์-ฮุด"
+  },
+  {
+    "word": "falsify",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ปลอมแปลง / บิดเบือนข้อมูล",
+    "ex": "He was fired for trying to falsify the sales records.",
+    "pron": "ฟอล-ซิ-ไฟ"
+  },
+  {
+    "word": "fanatic",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ผู้คลั่งไคล้",
+    "ex": "He's a total fanatic when it comes to football.",
+    "pron": "ฟะ-แน็ท-ทิค"
+  },
+  {
+    "word": "fateful",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ซึ่งกำหนดชะตากรรม / สำคัญยิ่ง",
+    "ex": "That fateful meeting changed the course of her career.",
+    "pron": "เฟท-ฟุล"
+  },
+  {
+    "word": "fathom",
+    "pos": "v.",
+    "level": "C1",
+    "th": "เข้าใจอย่างถ่องแท้",
+    "ex": "I simply can't fathom why he quit such a good job.",
+    "pron": "แฟ็ธ-เธิ่ม"
+  },
+  {
+    "word": "favorable",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เป็นผลดี / น่าพอใจ",
+    "ex": "The weather looks favorable for the trip this weekend.",
+    "pron": "เฟ-เวอะ-ระ-เบิ้ล"
+  },
+  {
+    "word": "feign",
+    "pos": "v.",
+    "level": "C1",
+    "th": "แสร้งทำ / เสแสร้ง",
+    "ex": "She feigned surprise when they announced the party.",
+    "pron": "เฟน"
+  },
+  {
+    "word": "feminine",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เป็นผู้หญิง / มีความเป็นหญิง",
+    "ex": "The dress has a soft, feminine design.",
+    "pron": "เฟม-มิ-นิน"
+  },
+  {
+    "word": "fetch",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ไปหยิบมาให้",
+    "ex": "Could you fetch my glasses from the kitchen?",
+    "pron": "เฟ็ทช์"
+  },
+  {
+    "word": "feud",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "ความบาดหมาง / ทะเลาะกันยืดเยื้อ",
+    "ex": "The two families have been in a feud for decades.",
+    "pron": "ฟิวด์"
+  },
+  {
+    "word": "fickle",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เปลี่ยนใจง่าย / ไม่แน่นอน",
+    "ex": "The weather here is fickle; it can rain any minute.",
+    "pron": "ฟิค-เคิ้ล"
+  },
+  {
+    "word": "fidelity",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความซื่อสัตย์ / ความเที่ยงตรง",
+    "ex": "The song was recorded with impressive sound fidelity.",
+    "pron": "ฟิ-เดล-ลิ-ที่"
+  },
+  {
+    "word": "fiddle",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เล่นซุกซนด้วยมือ / เล่นไวโอลิน",
+    "ex": "Stop fiddling with your phone and pay attention.",
+    "pron": "ฟิด-เดิ้ล"
+  },
+  {
+    "word": "finalize",
+    "pos": "v.",
+    "level": "B2",
+    "th": "สรุปให้เสร็จสมบูรณ์",
+    "ex": "We need to finalize the guest list by Friday.",
+    "pron": "ไฟ-เนิ่ล-ไลซ์"
+  },
+  {
+    "word": "fiscal",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เกี่ยวกับการคลัง / เกี่ยวกับงบประมาณ",
+    "ex": "The company's fiscal year ends in March.",
+    "pron": "ฟิส-เคิ่ล"
+  },
+  {
+    "word": "flare",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "เปลวไฟลุกโชน / ปะทุขึ้น",
+    "ex": "Tempers began to flare during the heated argument.",
+    "pron": "แฟลร์"
+  },
+  {
+    "word": "flatter",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ประจบประแจง / ยกยอ",
+    "ex": "He tried to flatter his boss to get a promotion.",
+    "pron": "แฟล็ท-เท่อร์"
+  },
+  {
+    "word": "flippant",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "พูดจาไม่จริงจัง / ขาดความเคารพ",
+    "ex": "Her flippant remark annoyed the whole committee.",
+    "pron": "ฟลิพ-เพิ่นท์"
+  },
+  {
+    "word": "flirt",
+    "pos": "v.",
+    "level": "B2",
+    "th": "จีบ / ทำเสน่ห์",
+    "ex": "He likes to flirt with the customers at the cafe.",
+    "pron": "เฟลิร์ท"
+  },
+  {
+    "word": "flurry",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความชุลมุนวุ่นวาย / หิมะโปรยปราย",
+    "ex": "There was a flurry of activity before the wedding began.",
+    "pron": "เฟลอ-รี่"
+  },
+  {
+    "word": "flush",
+    "pos": "v., adj.",
+    "level": "B2",
+    "th": "หน้าแดงระเรื่อ / ล้างให้ไหลออก",
+    "ex": "Her cheeks flushed with embarrassment.",
+    "pron": "ฟลัช"
+  },
+  {
+    "word": "foliage",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ใบไม้ (โดยรวม)",
+    "ex": "The park is famous for its colorful autumn foliage.",
+    "pron": "โฟ-ลิ-อิจ"
+  },
+  {
+    "word": "footage",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ภาพที่บันทึกไว้",
+    "ex": "The news showed footage of the storm damage.",
+    "pron": "ฟุท-ทิจ"
+  },
+  {
+    "word": "forensic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เกี่ยวกับนิติวิทยาศาสตร์",
+    "ex": "Forensic experts examined the scene for evidence.",
+    "pron": "ฟอ-เร็น-ซิค"
+  },
+  {
+    "word": "gala",
+    "pos": "n.",
+    "level": "B2",
+    "th": "งานเลี้ยงใหญ่ / งานฉลองพิเศษ",
+    "ex": "The charity hosted a gala to raise money for the hospital.",
+    "pron": "เก-ล่า"
+  },
+  {
+    "word": "galvanize",
+    "pos": "v.",
+    "level": "C1",
+    "th": "กระตุ้นให้ลงมือทำ",
+    "ex": "The speech galvanized the crowd into action.",
+    "pron": "แกล-วะ-ไนซ์"
+  },
+  {
+    "word": "gamble",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "พนัน / เสี่ยงโชค",
+    "ex": "Starting a new business is always a bit of a gamble.",
+    "pron": "แกม-เบิ้ล"
+  },
+  {
+    "word": "garner",
+    "pos": "v.",
+    "level": "C1",
+    "th": "รวบรวมได้ / ได้รับการสนับสนุน",
+    "ex": "The film garnered praise from critics worldwide.",
+    "pron": "การ์-เน่อร์"
+  },
+  {
+    "word": "gaudy",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ฉูดฉาดเกินไป / บาดตา",
+    "ex": "She thought the gold necklace was too gaudy to wear.",
+    "pron": "กอ-ดี้"
+  },
+  {
+    "word": "gear",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "อุปกรณ์ / ปรับให้เหมาะกับ",
+    "ex": "The course is geared toward beginners.",
+    "pron": "เกียร์"
+  },
+  {
+    "word": "gem",
+    "pos": "n.",
+    "level": "B2",
+    "th": "อัญมณี / สิ่งล้ำค่า",
+    "ex": "This little cafe is a hidden gem in the city.",
+    "pron": "เจ็ม"
+  },
+  {
+    "word": "genial",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เป็นมิตร / อารมณ์ดี",
+    "ex": "The genial host made everyone feel welcome.",
+    "pron": "จี๊-เนียล"
+  },
+  {
+    "word": "giddy",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เวียนหัว / ตื่นเต้นจนหน้ามืด",
+    "ex": "She felt giddy with excitement before the concert.",
+    "pron": "กิด-ดี้"
+  },
+  {
+    "word": "gist",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ใจความสำคัญ",
+    "ex": "I didn't catch every word, but I got the gist of it.",
+    "pron": "จิสท์"
+  },
+  {
+    "word": "glacial",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เย็นเยียบ / เชื่องช้ามาก",
+    "ex": "The negotiations proceeded at a glacial pace.",
+    "pron": "เกล-เชิ่ล"
+  },
+  {
+    "word": "glaring",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เห็นได้ชัดเจนมาก",
+    "ex": "There was a glaring mistake on the first page of the report.",
+    "pron": "แกล-ริ่ง"
+  },
+  {
+    "word": "glee",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความปีติยินดี",
+    "ex": "The children shouted with glee when they saw the puppy.",
+    "pron": "กลี"
+  },
+  {
+    "word": "glimmer",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "แสงริบหรี่ / ความหวังเล็กน้อย",
+    "ex": "There was still a glimmer of hope for a peaceful solution.",
+    "pron": "กลิม-เม่อร์"
+  },
+  {
+    "word": "glitch",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ข้อขัดข้องเล็กน้อย",
+    "ex": "A technical glitch delayed the start of the show.",
+    "pron": "กลิช"
+  },
+  {
+    "word": "gloat",
+    "pos": "v.",
+    "level": "C1",
+    "th": "พองตัวกับความสำเร็จ / ทะนงตน",
+    "ex": "He couldn't resist gloating about his victory.",
+    "pron": "โกลท"
+  },
+  {
+    "word": "grandiose",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ยิ่งใหญ่เกินจริง / หรูหราเว่อร์",
+    "ex": "He had grandiose plans to build a hotel empire.",
+    "pron": "แกรน-ดิ-โอส"
+  },
+  {
+    "word": "gratifying",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ที่ทำให้พึงพอใจ / น่าปลื้มใจ",
+    "ex": "It was gratifying to see the students finally understand.",
+    "pron": "แกร็ท-ทิ-ฟาย-อิ่ง"
+  },
+  {
+    "word": "gratuitous",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "โดยไม่จำเป็น / เกินความจำเป็น",
+    "ex": "His rude comment during the meeting was completely gratuitous.",
+    "pron": "กระ-ทู-อิ-เทิส"
+  },
+  {
+    "word": "gregarious",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ชอบเข้าสังคม / ร่าเริงเป็นมิตร",
+    "ex": "My gregarious uncle makes friends everywhere he goes.",
+    "pron": "กระ-แก-เรีย-เอิส"
+  },
+  {
+    "word": "grimace",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "ทำหน้าเบะ / หน้าย่นด้วยความเจ็บปวด",
+    "ex": "She grimaced at the taste of the bitter medicine.",
+    "pron": "กริม-มิส"
+  },
+  {
+    "word": "gritty",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "สมจริงและหยาบกระด้าง",
+    "ex": "The film gives a gritty portrayal of city life.",
+    "pron": "กริท-ที่"
+  },
+  {
+    "word": "grotesque",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "แปลกประหลาดน่าขนลุก",
+    "ex": "The statue had a grotesque, twisted shape.",
+    "pron": "โกร-เท็สค์"
+  },
+  {
+    "word": "groundwork",
+    "pos": "n.",
+    "level": "B2",
+    "th": "งานพื้นฐาน / รากฐาน",
+    "ex": "The meeting laid the groundwork for future cooperation.",
+    "pron": "กราวนด์-เวิร์ค"
+  },
+  {
+    "word": "gust",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ลมกระโชกแรง",
+    "ex": "A sudden gust of wind blew the papers off the desk.",
+    "pron": "กัสท์"
+  },
+  {
+    "word": "handout",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เอกสารแจก / ของแจกฟรี",
+    "ex": "The teacher gave each student a handout before the lecture.",
+    "pron": "แฮ้นด์-เอ๊าท์"
+  },
+  {
+    "word": "handshake",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การจับมือ",
+    "ex": "They sealed the deal with a firm handshake.",
+    "pron": "แฮ้นด์-เชค"
+  },
+  {
+    "word": "handy",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "สะดวกใช้ / มีประโยชน์",
+    "ex": "This small tool is very handy for quick repairs.",
+    "pron": "แฮ้น-ดี้"
+  },
+  {
+    "word": "haphazard",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "มั่ว / ไม่มีระเบียบ",
+    "ex": "His haphazard approach to studying led to poor grades.",
+    "pron": "แฮบ-แฮ้ซ-เอิร์ด"
+  },
+  {
+    "word": "harmonious",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "กลมกลืน / สอดคล้องกัน",
+    "ex": "They built a harmonious relationship based on trust.",
+    "pron": "ฮาร์-โม่-เนียส"
+  },
+  {
+    "word": "harrowing",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "น่าสะพรึงกลัว / ทรมานใจ",
+    "ex": "The survivors described a harrowing experience during the storm.",
+    "pron": "แฮ้-โรว-อิ้ง"
+  },
+  {
+    "word": "harvest",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "การเก็บเกี่ยว / เก็บเกี่ยว",
+    "ex": "Farmers harvest the wheat every autumn.",
+    "pron": "ฮาร์-เวสท์"
+  },
+  {
+    "word": "hasten",
+    "pos": "v.",
+    "level": "C1",
+    "th": "เร่งรีบ / เร่งให้เร็วขึ้น",
+    "ex": "The bad news hastened her decision to leave.",
+    "pron": "เฮ้-เซิ่น"
+  },
+  {
+    "word": "hatch",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "ฟักไข่ / ช่องเปิด",
+    "ex": "The eggs will hatch in a few weeks.",
+    "pron": "แฮช"
+  },
+  {
+    "word": "haul",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "ลาก / ขนย้าย",
+    "ex": "Workers hauled heavy boxes onto the truck.",
+    "pron": "ฮอล"
+  },
+  {
+    "word": "haven",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ที่หลบภัย / สวรรค์น้อยๆ",
+    "ex": "The small island became a haven for tourists.",
+    "pron": "เฮ้-เว่น"
+  },
+  {
+    "word": "havoc",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความโกลาหล / ความเสียหายยับเยิน",
+    "ex": "The storm caused havoc across the coastal town.",
+    "pron": "แฮ้-เวิค"
+  },
+  {
+    "word": "hazy",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "มัว / ไม่ชัดเจน",
+    "ex": "My memory of that day is a little hazy.",
+    "pron": "เฮ้-ซี่"
+  },
+  {
+    "word": "hearty",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "อบอุ่นจริงใจ / อิ่มหนำ",
+    "ex": "She gave us a hearty welcome at the door.",
+    "pron": "ฮาร์-ที่"
+  },
+  {
+    "word": "heyday",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ยุครุ่งเรือง",
+    "ex": "In its heyday, the factory employed thousands of workers.",
+    "pron": "เฮ-เดย์"
+  },
+  {
+    "word": "hideous",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "น่าเกลียดน่ากลัว",
+    "ex": "The old building had a hideous green color.",
+    "pron": "ฮิ-เดียส"
+  },
+  {
+    "word": "hijack",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "จี้ (เครื่องบิน) / ยึดอำนาจ",
+    "ex": "Security stopped the men trying to hijack the plane.",
+    "pron": "ไฮ-แจ็ค"
+  },
+  {
+    "word": "hinge",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "บานพับ / ขึ้นอยู่กับ",
+    "ex": "Our success hinges on careful planning.",
+    "pron": "ฮินจ์"
+  },
+  {
+    "word": "hoard",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "กักตุน / สิ่งของที่สะสมไว้",
+    "ex": "People began to hoard food during the crisis.",
+    "pron": "ฮอร์ด"
+  },
+  {
+    "word": "homage",
+    "pos": "n.",
+    "level": "C1",
+    "th": "การแสดงความเคารพ / การคารวะ",
+    "ex": "The film pays homage to classic musicals.",
+    "pron": "ฮอม-มิจ"
+  },
+  {
+    "word": "hospitalize",
+    "pos": "v.",
+    "level": "B2",
+    "th": "นำเข้ารักษาตัวในโรงพยาบาล",
+    "ex": "The accident left him hospitalized for two weeks.",
+    "pron": "ฮอส-พิ-เทิล-ไลซ์"
+  },
+  {
+    "word": "hover",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ลอยอยู่กับที่ / วนเวียนอยู่ใกล้ๆ",
+    "ex": "A helicopter hovered above the building.",
+    "pron": "ฮัฟ-เว่อร์"
+  },
+  {
+    "word": "hub",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ศูนย์กลาง",
+    "ex": "The city is a major hub for trade and transport.",
+    "pron": "ฮับ"
+  },
+  {
+    "word": "humid",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ชื้น",
+    "ex": "Summers here are hot and humid.",
+    "pron": "ฮิว-มิด"
+  },
+  {
+    "word": "hue",
+    "pos": "n.",
+    "level": "B2",
+    "th": "สีสัน / เฉดสี",
+    "ex": "The sunset painted the sky in a golden hue.",
+    "pron": "ฮิว"
+  },
+  {
+    "word": "icy",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เป็นน้ำแข็ง / เย็นชา",
+    "ex": "Drivers should be careful on icy roads.",
+    "pron": "ไอ-ซี่"
+  },
+  {
+    "word": "impending",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ใกล้จะเกิดขึ้น",
+    "ex": "Dark clouds warned of an impending storm.",
+    "pron": "อิม-เเพน-ดิ้ง"
+  },
+  {
+    "word": "imperfect",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไม่สมบูรณ์แบบ",
+    "ex": "Nobody is perfect; we all have imperfect lives.",
+    "pron": "อิม-เพ่อร์-เฟ็คท์"
+  },
+  {
+    "word": "impetus",
+    "pos": "n.",
+    "level": "C1",
+    "th": "แรงกระตุ้น / แรงผลักดัน",
+    "ex": "The new law gave impetus to renewable energy projects.",
+    "pron": "อิม-พิ-เทิส"
+  },
+  {
+    "word": "impoverished",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ยากจน",
+    "ex": "The war left many families impoverished.",
+    "pron": "อิม-พอฟ-เวอ-ริชท์"
+  },
+  {
+    "word": "impractical",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไม่สามารถนำไปใช้ได้จริง",
+    "ex": "Wearing heels to hike is impractical.",
+    "pron": "อิม-แพร็ค-ทิ-เคิล"
+  },
+  {
+    "word": "impromptu",
+    "pos": "adj., adv.",
+    "level": "C1",
+    "th": "ไม่ได้เตรียมล่วงหน้า",
+    "ex": "She gave an impromptu speech at the party.",
+    "pron": "อิม-พร็อมพ์-ทู"
+  },
+  {
+    "word": "inaccurate",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไม่ถูกต้อง",
+    "ex": "The report contained several inaccurate figures.",
+    "pron": "อิน-แอ๊ค-คิว-เหริท"
+  },
+  {
+    "word": "incessant",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ไม่หยุดหย่อน / ไม่ขาดสาย",
+    "ex": "The incessant noise from the street kept him awake.",
+    "pron": "อิน-เซส-เซินท์"
+  },
+  {
+    "word": "inclination",
+    "pos": "n.",
+    "level": "C1",
+    "th": "แนวโน้ม / ความโน้มเอียง",
+    "ex": "She had no inclination to argue about it.",
+    "pron": "อิน-คลิ-เน-ชั่น"
+  },
+  {
+    "word": "inconsiderate",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไม่เกรงใจผู้อื่น",
+    "ex": "It was inconsiderate of him to arrive so late.",
+    "pron": "อิน-เคิน-ซิด-เดอ-เหริท"
+  },
+  {
+    "word": "inconvenience",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "ความไม่สะดวก",
+    "ex": "We apologize for any inconvenience caused.",
+    "pron": "อิน-เคิน-วี-เนี่ยนซ์"
+  },
+  {
+    "word": "indebted",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เป็นหนี้บุญคุณ",
+    "ex": "I am deeply indebted to my mentor for her advice.",
+    "pron": "อิน-เด็ท-เท็ด"
+  },
+  {
+    "word": "indecisive",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ลังเล / ตัดสินใจไม่ได้",
+    "ex": "He is too indecisive to choose a restaurant.",
+    "pron": "อิน-ดิ-ไซ-สิฟ"
+  },
+  {
+    "word": "industrious",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ขยันขันแข็ง",
+    "ex": "The industrious student finished all her homework early.",
+    "pron": "อิน-ดัส-เทรียส"
+  },
+  {
+    "word": "inept",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ไร้ความสามารถ / งุ่มง่าม",
+    "ex": "He felt inept at handling the new software.",
+    "pron": "อิน-เอ็พท์"
+  },
+  {
+    "word": "infant",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ทารก",
+    "ex": "The infant slept peacefully in her crib.",
+    "pron": "อิน-เฟิ่นท์"
+  },
+  {
+    "word": "infectious",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ติดต่อได้ง่าย / ที่แพร่กระจายได้",
+    "ex": "Her infectious laughter made everyone smile.",
+    "pron": "อิน-เฟ็ค-เชิส"
+  },
+  {
+    "word": "inflict",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ก่อให้เกิด (ความเจ็บปวด/ความเสียหาย)",
+    "ex": "The storm inflicted severe damage on the coast.",
+    "pron": "อิน-ฟลิคท์"
+  },
+  {
+    "word": "injustice",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความอยุติธรรม",
+    "ex": "The protesters spoke out against social injustice.",
+    "pron": "อิน-จัส-ทิส"
+  },
+  {
+    "word": "jagged",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "หยักเป็นซี่ / ขรุขระ",
+    "ex": "The jagged rocks made climbing dangerous.",
+    "pron": "แจ๊ก-เก็ด"
+  },
+  {
+    "word": "jerk",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "การกระตุก / คนหยาบคาย",
+    "ex": "The bus stopped with a sudden jerk.",
+    "pron": "เจิร์ค"
+  },
+  {
+    "word": "jolly",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ร่าเริง / สนุกสนาน",
+    "ex": "The jolly old man laughed at every joke.",
+    "pron": "จอล-ลี่"
+  },
+  {
+    "word": "jot",
+    "pos": "v.",
+    "level": "B2",
+    "th": "จดสั้นๆ",
+    "ex": "Let me jot down your phone number.",
+    "pron": "จอท"
+  },
+  {
+    "word": "jumble",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "ความยุ่งเหยิง / ทำให้ปนกัน",
+    "ex": "Her desk was a jumble of papers and pens.",
+    "pron": "จั้ม-เบิล"
+  },
+  {
+    "word": "keynote",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ประเด็นหลัก / ปาฐกถาหลัก",
+    "ex": "The CEO delivered the keynote speech at the conference.",
+    "pron": "คี-โน้ท"
+  },
+  {
+    "word": "kindle",
+    "pos": "v.",
+    "level": "C1",
+    "th": "จุดประกาย / ก่อให้เกิด",
+    "ex": "The teacher's story kindled her interest in science.",
+    "pron": "คิน-เดิ้ล"
+  },
+  {
+    "word": "kinetic",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เกี่ยวกับการเคลื่อนไหว",
+    "ex": "Moving objects have kinetic energy.",
+    "pron": "คิ-เน็ท-ทิค"
+  },
+  {
+    "word": "kit",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ชุดอุปกรณ์",
+    "ex": "He keeps a first-aid kit in his car.",
+    "pron": "คิท"
+  },
+  {
+    "word": "knit",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ถักไหมพรม / ถักทอ",
+    "ex": "My grandmother knits sweaters every winter.",
+    "pron": "นิท"
+  },
+  {
+    "word": "luminous",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เรืองแสง / ส่องสว่าง",
+    "ex": "The luminous stars lit up the night sky.",
+    "pron": "ลู-มิ-เนิส"
+  },
+  {
+    "word": "ladder",
+    "pos": "n.",
+    "level": "B2",
+    "th": "บันไดพาดหรือบันไดปีน",
+    "ex": "He climbed the ladder to fix the roof.",
+    "pron": "แล้ด-เดอร์"
+  },
+  {
+    "word": "latch",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "กลอนประตู / ลงกลอน",
+    "ex": "Make sure to latch the gate behind you.",
+    "pron": "แลช"
+  },
+  {
+    "word": "lateral",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ด้านข้าง / เกี่ยวกับแนวราบ",
+    "ex": "The company promoted lateral thinking to solve problems.",
+    "pron": "แล้ท-เทอ-เริล"
+  },
+  {
+    "word": "laudable",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "น่าสรรเสริญ / น่ายกย่อง",
+    "ex": "Her effort to help the poor is truly laudable.",
+    "pron": "ลอ-ดะ-เบิ้ล"
+  },
+  {
+    "word": "launder",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ฟอกเงิน / ซักรีด",
+    "ex": "The gang tried to launder money through a fake business.",
+    "pron": "ลอน-เดอร์"
+  },
+  {
+    "word": "lens",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เลนส์",
+    "ex": "She cleaned the camera lens before the shoot.",
+    "pron": "เลนซ์"
+  },
+  {
+    "word": "lofty",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "สูงส่ง / ทะเยอทะยาน",
+    "ex": "The company set lofty goals for next year.",
+    "pron": "ลอฟ-ที่"
+  },
+  {
+    "word": "logistics",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การจัดการด้านโลจิสติกส์",
+    "ex": "The team handled all the logistics for the event.",
+    "pron": "โล-จิส-ทิคส์"
+  },
+  {
+    "word": "lone",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "โดดเดี่ยว / เดียวดาย",
+    "ex": "A lone tree stood in the middle of the field.",
+    "pron": "โลน"
+  },
+  {
+    "word": "loot",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "ของที่ปล้นมา / ปล้นสะดม",
+    "ex": "The thieves fled with their loot.",
+    "pron": "ลูท"
+  },
+  {
+    "word": "lousy",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "แย่มาก",
+    "ex": "I had a lousy day at work.",
+    "pron": "เลา-ซี่"
+  },
+  {
+    "word": "lump",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ก้อน",
+    "ex": "She added a lump of sugar to her tea.",
+    "pron": "ลัมพ์"
+  },
+  {
+    "word": "lunar",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เกี่ยวกับดวงจันทร์",
+    "ex": "The lunar eclipse lasted almost an hour.",
+    "pron": "ลู-เนอร์"
+  },
+  {
+    "word": "lurch",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "เซถลา / โคลงเคลง",
+    "ex": "The ship lurched suddenly in the rough sea.",
+    "pron": "เลิร์ช"
+  },
+  {
+    "word": "lurk",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ซุ่มซ่อน / แฝงตัวอยู่",
+    "ex": "Danger seemed to lurk in every shadow.",
+    "pron": "เลิร์ค"
+  },
+  {
+    "word": "lyric",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เนื้อเพลง",
+    "ex": "I love the lyrics of this song.",
+    "pron": "ลิ-ริค"
+  },
+  {
+    "word": "legitimacy",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความชอบธรรม",
+    "ex": "The court questioned the legitimacy of the election.",
+    "pron": "ลิ-จิท-ทิ-มะ-ซี่"
+  },
+  {
+    "word": "legion",
+    "pos": "n.",
+    "level": "C1",
+    "th": "กองทหาร / กลุ่มคนจำนวนมาก",
+    "ex": "The singer has a legion of loyal fans.",
+    "pron": "ลี-เจิ้น"
+  },
+  {
+    "word": "lopsided",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เอียงข้างใดข้างหนึ่ง / ไม่สมดุล",
+    "ex": "The old table had a lopsided leg.",
+    "pron": "ลอพ-ไซ-เด็ด"
+  },
+  {
+    "word": "mainland",
+    "pos": "n.",
+    "level": "B2",
+    "th": "แผ่นดินใหญ่",
+    "ex": "They took a ferry from the island to the mainland.",
+    "pron": "เมน-แลนด์"
+  },
+  {
+    "word": "makeover",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การปรับโฉมใหม่",
+    "ex": "The old house got a complete makeover.",
+    "pron": "เมค-โอ-เว่อร์"
+  },
+  {
+    "word": "mammoth",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "มหึมา / ใหญ่โตมาก",
+    "ex": "Building the bridge was a mammoth task.",
+    "pron": "แม้ม-เมิธ"
+  },
+  {
+    "word": "mantle",
+    "pos": "n.",
+    "level": "C1",
+    "th": "บทบาทหน้าที่ / เสื้อคลุม",
+    "ex": "She took on the mantle of team leader.",
+    "pron": "แมน-เทิล"
+  },
+  {
+    "word": "manual",
+    "pos": "adj., n.",
+    "level": "B2",
+    "th": "ที่ใช้มือทำ / คู่มือ",
+    "ex": "Read the manual before assembling the furniture.",
+    "pron": "แม้น-นวล"
+  },
+  {
+    "word": "maritime",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เกี่ยวกับทะเล",
+    "ex": "The country has a long maritime history.",
+    "pron": "แม-ริ-ไทม์"
+  },
+  {
+    "word": "marker",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ปากกาเมจิก / เครื่องหมาย",
+    "ex": "She drew the diagram with a red marker.",
+    "pron": "มาร์-เค่อร์"
+  },
+  {
+    "word": "mask",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "หน้ากาก / ปิดบัง",
+    "ex": "He wore a mask to hide his identity.",
+    "pron": "แมสค์"
+  },
+  {
+    "word": "massage",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "การนวด / นวด",
+    "ex": "A relaxing massage eased her sore muscles.",
+    "pron": "มะ-สาจ"
+  },
+  {
+    "word": "mate",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "เพื่อน / คู่ผสมพันธุ์",
+    "ex": "He introduced his classmate as his study mate.",
+    "pron": "เมท"
+  },
+  {
+    "word": "maternity",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การเป็นมารดา / เกี่ยวกับการคลอดบุตร",
+    "ex": "She is currently on maternity leave.",
+    "pron": "มะ-เทอร์-นิ-ที่"
+  },
+  {
+    "word": "mattress",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ที่นอน",
+    "ex": "We bought a new mattress for the guest room.",
+    "pron": "แม้ท-เทริส"
+  },
+  {
+    "word": "meadow",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ทุ่งหญ้า",
+    "ex": "Cows grazed peacefully in the meadow.",
+    "pron": "เม้ด-โดว์"
+  },
+  {
+    "word": "medieval",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ยุคกลาง",
+    "ex": "The castle dates back to medieval times.",
+    "pron": "มี-ดี-อี-เวิล"
+  },
+  {
+    "word": "meek",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "อ่อนโยน / ยอมง่าย",
+    "ex": "She seemed meek but was actually very determined.",
+    "pron": "มีค"
+  },
+  {
+    "word": "melancholy",
+    "pos": "n., adj.",
+    "level": "C1",
+    "th": "ความเศร้าหมอง / เศร้าสร้อย",
+    "ex": "A sense of melancholy filled the empty house.",
+    "pron": "เม-แลน-คอล-ลี่"
+  },
+  {
+    "word": "mellow",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "นุ่มนวล / ผ่อนคลาย",
+    "ex": "The music had a mellow, relaxing tone.",
+    "pron": "เมล-โลว์"
+  },
+  {
+    "word": "memorize",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ท่องจำ",
+    "ex": "Students had to memorize the poem for class.",
+    "pron": "เม็ม-โม-ไรซ์"
+  },
+  {
+    "word": "mend",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ซ่อมแซม / ปะ",
+    "ex": "She sat down to mend a torn shirt.",
+    "pron": "เม็นด์"
+  },
+  {
+    "word": "mentality",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ทัศนคติ / แนวความคิด",
+    "ex": "A positive mentality can help you overcome challenges.",
+    "pron": "เมน-แท้ล-ลิ-ที่"
+  },
+  {
+    "word": "mere",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เพียงแค่ / แค่เท่านั้น",
+    "ex": "It took a mere five minutes to fix the problem.",
+    "pron": "เมียร์"
+  },
+  {
+    "word": "merger",
+    "pos": "n.",
+    "level": "C1",
+    "th": "การควบรวมกิจการ",
+    "ex": "The two banks announced a merger last week.",
+    "pron": "เมอร์-เจ่อร์"
+  },
+  {
+    "word": "mesmerize",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ทำให้หลงใหล / สะกดจิต",
+    "ex": "The dancer's grace mesmerized the audience.",
+    "pron": "เมส-เมอ-ไรซ์"
+  },
+  {
+    "word": "messy",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "รกรุงรัง / เลอะเทอะ",
+    "ex": "His room was messy after the party.",
+    "pron": "เมส-ซี่"
+  },
+  {
+    "word": "misconception",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความเข้าใจผิด",
+    "ex": "It's a common misconception that bats are blind.",
+    "pron": "มิส-เคิน-เซ็พ-ชั่น"
+  },
+  {
+    "word": "nemesis",
+    "pos": "n.",
+    "level": "C1",
+    "th": "คู่ปรับตัวฉกาจ / ศัตรูคู่อาฆาต",
+    "ex": "The old rival became his greatest nemesis.",
+    "pron": "เน็ม-เม-ซิส"
+  },
+  {
+    "word": "nepotism",
+    "pos": "n.",
+    "level": "C1",
+    "th": "การเล่นพรรคเล่นพวก",
+    "ex": "Hiring your relatives is a form of nepotism.",
+    "pron": "เนพ-เพอ-ทิ-ซึม"
+  },
+  {
+    "word": "nestle",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ซุกตัวอย่างอบอุ่น / ตั้งอยู่ในที่กำบัง",
+    "ex": "The small town nestles between the hills.",
+    "pron": "เนส-เซิล"
+  },
+  {
+    "word": "newcomer",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ผู้มาใหม่",
+    "ex": "She quickly made friends as a newcomer.",
+    "pron": "นิว-คัม-เมอร์"
+  },
+  {
+    "word": "nightfall",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เวลาพลบค่ำ",
+    "ex": "We need to reach the village before nightfall.",
+    "pron": "ไนท์-ฟอล"
+  },
+  {
+    "word": "nonsensical",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ไร้เหตุผล / เหลวไหล",
+    "ex": "His argument was completely nonsensical.",
+    "pron": "น็อน-เซน-ซิ-เคิล"
+  },
+  {
+    "word": "nonverbal",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ไม่ใช้คำพูด",
+    "ex": "A smile is a simple nonverbal signal.",
+    "pron": "น็อน-เวอร์-เบิล"
+  },
+  {
+    "word": "notwithstanding",
+    "pos": "prep., adv.",
+    "level": "C1",
+    "th": "แม้ว่า / ถึงกระนั้นก็ตาม",
+    "ex": "Notwithstanding the delay, the event was a success.",
+    "pron": "น็อท-วิธ-สแตน-ดิ้ง"
+  },
+  {
+    "word": "novelist",
+    "pos": "n.",
+    "level": "B2",
+    "th": "นักเขียนนวนิยาย",
+    "ex": "The novelist signed copies of her latest book.",
+    "pron": "นอฟ-เวอ-ลิสท์"
+  },
+  {
+    "word": "nozzle",
+    "pos": "n.",
+    "level": "B2",
+    "th": "หัวฉีด",
+    "ex": "Water sprayed out of the hose nozzle.",
+    "pron": "นอซ-เซิล"
+  },
+  {
+    "word": "nudge",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "ผลักเบาๆ / กระตุ้นเล็กน้อย",
+    "ex": "A gentle nudge helped him make the decision.",
+    "pron": "นัดจ์"
+  },
+  {
+    "word": "numeral",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ตัวเลข",
+    "ex": "The clock face uses Roman numerals.",
+    "pron": "นิว-เมอ-เริล"
+  },
+  {
+    "word": "nutrient",
+    "pos": "n.",
+    "level": "B2",
+    "th": "สารอาหาร",
+    "ex": "Fruits provide essential nutrients for the body.",
+    "pron": "นิว-เทรียนท์"
+  },
+  {
+    "word": "nutrition",
+    "pos": "n.",
+    "level": "B2",
+    "th": "โภชนาการ",
+    "ex": "Good nutrition helps children grow strong.",
+    "pron": "นิว-ทริช-ชั่น"
+  },
+  {
+    "word": "nutshell",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เปลือกถั่ว / (in a nutshell) กล่าวโดยสรุป",
+    "ex": "In a nutshell, the plan failed.",
+    "pron": "นัท-เชล"
+  },
+  {
+    "word": "nosy",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ชอบสอดรู้สอดเห็น",
+    "ex": "My neighbor is nosy about everyone's business.",
+    "pron": "โน-ซี่"
+  },
+  {
+    "word": "nitpick",
+    "pos": "v.",
+    "level": "C1",
+    "th": "จับผิดเรื่องจุกจิก",
+    "ex": "Please stop nitpicking every small mistake.",
+    "pron": "นิท-พิค"
+  },
+  {
+    "word": "noble",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "สูงส่ง / มีคุณธรรม",
+    "ex": "Helping strangers was a noble thing to do.",
+    "pron": "โน-เบิ้ล"
+  },
+  {
+    "word": "oust",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ขับไล่ออกจากอำนาจ",
+    "ex": "The manager was ousted after the scandal.",
+    "pron": "เอาสท์"
+  },
+  {
+    "word": "outfit",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ชุดแต่งกาย",
+    "ex": "She bought a new outfit for the interview.",
+    "pron": "เอาท์-ฟิท"
+  },
+  {
+    "word": "outrage",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความโกรธแค้น",
+    "ex": "The unfair verdict caused public outrage.",
+    "pron": "เอาท์-เรจ"
+  },
+  {
+    "word": "outrageous",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "น่าตกใจ / เกินขอบเขต",
+    "ex": "The hotel charged an outrageous price.",
+    "pron": "เอาท์-เร-เจิส"
+  },
+  {
+    "word": "outright",
+    "pos": "adj., adv.",
+    "level": "B2",
+    "th": "อย่างสิ้นเชิง / ตรงไปตรงมา",
+    "ex": "He denied the accusation outright.",
+    "pron": "เอาท์-ไรท์"
+  },
+  {
+    "word": "outspoken",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "พูดตรงไปตรงมา",
+    "ex": "She is outspoken about environmental issues.",
+    "pron": "เอาท์-สโปเคิ่น"
+  },
+  {
+    "word": "outstanding",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "โดดเด่น / ยอดเยี่ยม",
+    "ex": "He received an award for outstanding service.",
+    "pron": "เอาท์-สแตน-ดิ้ง"
+  },
+  {
+    "word": "overcome",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เอาชนะ (อุปสรรค)",
+    "ex": "She overcame many challenges to succeed.",
+    "pron": "โอ-เวอร์-คัม"
+  },
+  {
+    "word": "overdue",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เกินกำหนด / ค้างชำระ",
+    "ex": "The rent payment is two weeks overdue.",
+    "pron": "โอ-เวอร์-ดิว"
+  },
+  {
+    "word": "overlook",
+    "pos": "v.",
+    "level": "B2",
+    "th": "มองข้าม",
+    "ex": "The manager overlooked a small error in the report.",
+    "pron": "โอ-เวอร์-ลุค"
+  },
+  {
+    "word": "oversee",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ดูแลควบคุม",
+    "ex": "She was promoted to oversee the whole department.",
+    "pron": "โอ-เวอร์-ซี"
+  },
+  {
+    "word": "overtake",
+    "pos": "v.",
+    "level": "B2",
+    "th": "แซงหน้า",
+    "ex": "The runner overtook her opponent near the finish line.",
+    "pron": "โอ-เวอร์-เทค"
+  },
+  {
+    "word": "overthrow",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "โค่นล้ม",
+    "ex": "The rebels tried to overthrow the government.",
+    "pron": "โอ-เวอร์-โธรว์"
+  },
+  {
+    "word": "overview",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ภาพรวม",
+    "ex": "Let me give you a brief overview of the project.",
+    "pron": "โอ-เวอร์-วิว"
+  },
+  {
+    "word": "obstinate",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ดื้อรั้น",
+    "ex": "He was too obstinate to accept any advice.",
+    "pron": "อ็อบ-สติ-เนท"
+  },
+  {
+    "word": "odor",
+    "pos": "n.",
+    "level": "B2",
+    "th": "กลิ่น",
+    "ex": "A strange odor filled the old house.",
+    "pron": "โอ-เดอร์"
+  },
+  {
+    "word": "onlooker",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ผู้เฝ้าดูเหตุการณ์",
+    "ex": "A crowd of onlookers watched the accident scene.",
+    "pron": "ออน-ลุค-เกอร์"
+  },
+  {
+    "word": "opt",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เลือก (ทำสิ่งใดสิ่งหนึ่ง)",
+    "ex": "Many employees opt to work from home.",
+    "pron": "อ็อพท์"
+  },
+  {
+    "word": "organic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "อินทรีย์ / ปลอดสารเคมี",
+    "ex": "They grow organic vegetables in their garden.",
+    "pron": "ออร์-แกน-นิค"
+  },
+  {
+    "word": "ostracize",
+    "pos": "v.",
+    "level": "C1",
+    "th": "กีดกันออกจากกลุ่ม",
+    "ex": "He felt ostracized by his own classmates.",
+    "pron": "ออส-ทระ-ไซซ์"
+  },
+  {
+    "word": "painstaking",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "พิถีพิถัน / ต้องใช้ความอุตสาหะ",
+    "ex": "Restoring the painting required painstaking effort.",
+    "pron": "เพนซ์-เท-กิ้ง"
+  },
+  {
+    "word": "palatable",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ถูกปาก / พอรับได้",
+    "ex": "The new proposal was more palatable to investors.",
+    "pron": "แพล-ละ-เทเบิล"
+  },
+  {
+    "word": "palpable",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "รู้สึกได้ชัดเจน",
+    "ex": "There was a palpable sense of relief in the room.",
+    "pron": "แพล-เพเบิล"
+  },
+  {
+    "word": "pamper",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ตามใจ / ปรนเปรอ",
+    "ex": "She pampered herself with a relaxing massage.",
+    "pron": "แพม-เพอร์"
+  },
+  {
+    "word": "paradise",
+    "pos": "n.",
+    "level": "B2",
+    "th": "สวรรค์",
+    "ex": "The tropical island felt like paradise.",
+    "pron": "แพ-ระ-ไดซ์"
+  },
+  {
+    "word": "pardon",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "ให้อภัย / อภัยโทษ",
+    "ex": "The prisoner was granted a pardon.",
+    "pron": "พาร์-เดิ้น"
+  },
+  {
+    "word": "parity",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความเท่าเทียมกัน",
+    "ex": "The two teams reached parity in the standings.",
+    "pron": "แพ-ริ-ที"
+  },
+  {
+    "word": "parody",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การล้อเลียน",
+    "ex": "The comedian performed a parody of the president.",
+    "pron": "แพ-ระ-ดี้"
+  },
+  {
+    "word": "partake",
+    "pos": "v.",
+    "level": "C1",
+    "th": "เข้าร่วม / มีส่วนร่วม",
+    "ex": "Everyone was welcome to partake in the celebration.",
+    "pron": "พาร์-เทค"
+  },
+  {
+    "word": "partisan",
+    "pos": "adj., n.",
+    "level": "B2",
+    "th": "ฝักใฝ่ฝ่ายใดฝ่ายหนึ่ง",
+    "ex": "The vote split along partisan lines.",
+    "pron": "พาร์-ทิ-เซิน"
+  },
+  {
+    "word": "passerby",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ผู้ผ่านไปมา",
+    "ex": "A passerby stopped to help the injured man.",
+    "pron": "แพส-เซอร์-บาย"
+  },
+  {
+    "word": "patronize",
+    "pos": "v.",
+    "level": "C1",
+    "th": "วางท่าข่มผู้อื่น / อุปถัมภ์",
+    "ex": "He hates when people patronize him at work.",
+    "pron": "เพ-ทระ-ไนซ์"
+  },
+  {
+    "word": "pawn",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "เบี้ย (หมากรุก) / เครื่องมือ",
+    "ex": "She refused to be used as a pawn.",
+    "pron": "พอน"
+  },
+  {
+    "word": "peasant",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ชาวนา / ชาวไร่",
+    "ex": "The peasants farmed the same land for generations.",
+    "pron": "เพซ-เซินท์"
+  },
+  {
+    "word": "penchant",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความชื่นชอบเป็นพิเศษ",
+    "ex": "He has a penchant for expensive cars.",
+    "pron": "เพ็น-เชิ่นท์"
+  },
+  {
+    "word": "pendulum",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ลูกตุ้ม",
+    "ex": "Public opinion swung like a pendulum.",
+    "pron": "เพน-จู-เลิม"
+  },
+  {
+    "word": "pensive",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ครุ่นคิด",
+    "ex": "She stared out the window with a pensive look.",
+    "pron": "เพน-ซิฟ"
+  },
+  {
+    "word": "perch",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "เกาะคอน / จับ (บนกิ่งไม้)",
+    "ex": "The bird perched on the fence.",
+    "pron": "เพิร์ช"
+  },
+  {
+    "word": "perimeter",
+    "pos": "n.",
+    "level": "B2",
+    "th": "แนวขอบเขตรอบนอก",
+    "ex": "Security guards patrolled the perimeter of the building.",
+    "pron": "เพอ-ริม-มิ-เทอร์"
+  },
+  {
+    "word": "permeate",
+    "pos": "v.",
+    "level": "C1",
+    "th": "แผ่ซ่านไปทั่ว",
+    "ex": "The smell of fresh bread permeated the kitchen.",
+    "pron": "เพอร์-มิ-เอท"
+  },
+  {
+    "word": "perpetrator",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ผู้ก่อเหตุ",
+    "ex": "Police finally caught the perpetrator of the crime.",
+    "pron": "เพอร์-พิ-เทร-เทอร์"
+  },
+  {
+    "word": "persecute",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ข่มเหง / กดขี่ข่มเหง",
+    "ex": "The minority group was persecuted for years.",
+    "pron": "เพอร์-ซิ-คิวท์"
+  },
+  {
+    "word": "peruse",
+    "pos": "v.",
+    "level": "C1",
+    "th": "อ่านอย่างละเอียด",
+    "ex": "She perused the contract before signing it.",
+    "pron": "เพอ-รูซ"
+  },
+  {
+    "word": "pervasive",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "แพร่หลายไปทั่ว",
+    "ex": "Smartphones have become pervasive in daily life.",
+    "pron": "เพอร์-เว-ซิฟ"
+  },
+  {
+    "word": "petrified",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "กลัวจนตัวแข็ง",
+    "ex": "She was petrified of speaking in public.",
+    "pron": "เพ็ท-ทริ-ไฟด์"
+  },
+  {
+    "word": "phony",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ปลอม / เสแสร้ง",
+    "ex": "He gave a phony smile to the camera.",
+    "pron": "โฟ-นี่"
+  },
+  {
+    "word": "picky",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เลือกมาก / จู้จี้",
+    "ex": "My little brother is a picky eater.",
+    "pron": "พิค-กี้"
+  },
+  {
+    "word": "pinnacle",
+    "pos": "n.",
+    "level": "B2",
+    "th": "จุดสูงสุด",
+    "ex": "Winning the award was the pinnacle of her career.",
+    "pron": "พิน-นะ-เคิล"
+  },
+  {
+    "word": "pique",
+    "pos": "v.",
+    "level": "C1",
+    "th": "กระตุ้นความสนใจ",
+    "ex": "The mystery piqued her curiosity.",
+    "pron": "พีค"
+  },
+  {
+    "word": "placid",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "สงบนิ่ง",
+    "ex": "The lake stayed placid all morning.",
+    "pron": "แพล-ซิด"
+  },
+  {
+    "word": "plagiarism",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การลอกเลียนผลงาน",
+    "ex": "The essay was rejected because of plagiarism.",
+    "pron": "เพล-เจีย-ริ-ซึม"
+  },
+  {
+    "word": "playful",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ขี้เล่น",
+    "ex": "The kitten was playful all afternoon.",
+    "pron": "เพลย์-ฟุล"
+  },
+  {
+    "word": "quake",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "สั่นสะเทือน / แผ่นดินไหว",
+    "ex": "The building began to quake during the tremor.",
+    "pron": "เควค"
+  },
+  {
+    "word": "quagmire",
+    "pos": "n.",
+    "level": "C1",
+    "th": "สถานการณ์ยุ่งยากซับซ้อน",
+    "ex": "The peace talks turned into a political quagmire.",
+    "pron": "แคว็ก-ไม-เออร์"
+  },
+  {
+    "word": "quell",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ปราบปราม / ระงับ",
+    "ex": "Police were called in to quell the riot.",
+    "pron": "เควล"
+  },
+  {
+    "word": "quibble",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "โต้เถียงเรื่องเล็กน้อย",
+    "ex": "Let's not quibble over such a tiny detail.",
+    "pron": "ควิบ-เบิล"
+  },
+  {
+    "word": "quintessential",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เป็นแบบฉบับที่สุด",
+    "ex": "Sushi is a quintessential Japanese dish.",
+    "pron": "ควิน-เท-เซน-เชิล"
+  },
+  {
+    "word": "quip",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "คำพูดติดตลกเฉียบคม",
+    "ex": "He made a witty quip during the meeting.",
+    "pron": "ควิพ"
+  },
+  {
+    "word": "quiver",
+    "pos": "v.",
+    "level": "B2",
+    "th": "สั่นเทา",
+    "ex": "Her voice quivered as she gave the speech.",
+    "pron": "ควิฟ-เวอร์"
+  },
+  {
+    "word": "quizzical",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "แสดงความสงสัยแปลกใจ",
+    "ex": "He gave me a quizzical look when I explained.",
+    "pron": "ควิซ-ซิ-เคิล"
+  },
+  {
+    "word": "ramble",
+    "pos": "v.",
+    "level": "B2",
+    "th": "พูดเรื่อยเปื่อย / เดินเล่นเรื่อยไป",
+    "ex": "He rambled on about his trip for hours.",
+    "pron": "แรม-เบิล"
+  },
+  {
+    "word": "ramification",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ผลกระทบที่ตามมา",
+    "ex": "The decision had serious ramifications for the company.",
+    "pron": "แรม-มิ-ฟิ-เค-ชั่น"
+  },
+  {
+    "word": "rant",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "พูดระบายอารมณ์",
+    "ex": "She ranted about the terrible service.",
+    "pron": "แรนท์"
+  },
+  {
+    "word": "rapport",
+    "pos": "n.",
+    "level": "C1",
+    "th": "สัมพันธภาพที่ดี",
+    "ex": "The teacher built great rapport with her students.",
+    "pron": "แรพ-พอร์"
+  },
+  {
+    "word": "ravenous",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "หิวโหยมาก",
+    "ex": "The hikers were ravenous after the long climb.",
+    "pron": "แรฟ-เวิน-เนิส"
+  },
+  {
+    "word": "rebuke",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "ตำหนิอย่างรุนแรง",
+    "ex": "The coach rebuked the team for their poor effort.",
+    "pron": "รี-บิวค์"
+  },
+  {
+    "word": "recede",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ถอยห่าง / ลดลง",
+    "ex": "The floodwaters gradually receded.",
+    "pron": "รี-ซีด"
+  },
+  {
+    "word": "reiterate",
+    "pos": "v.",
+    "level": "C1",
+    "th": "พูดย้ำอีกครั้ง",
+    "ex": "Let me reiterate the main point of the plan.",
+    "pron": "รี-อิท-เทอ-เรท"
+  },
+  {
+    "word": "rejoice",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ดีใจ / ยินดีปรีดา",
+    "ex": "The whole city rejoiced when the team won.",
+    "pron": "รี-จอยส์"
+  },
+  {
+    "word": "relentless",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไม่ลดละ / ไม่หยุดยั้ง",
+    "ex": "She trained with relentless determination.",
+    "pron": "รี-เลนท์-เลส"
+  },
+  {
+    "word": "relinquish",
+    "pos": "v.",
+    "level": "C1",
+    "th": "สละ / ยอมสละ",
+    "ex": "He relinquished control of the company.",
+    "pron": "รี-ลิง-ควิช"
+  },
+  {
+    "word": "relish",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "ชื่นชอบ / เพลิดเพลินกับ",
+    "ex": "She relished the chance to travel alone.",
+    "pron": "เรล-ลิช"
+  },
+  {
+    "word": "reminisce",
+    "pos": "v.",
+    "level": "B2",
+    "th": "รำลึกความหลัง",
+    "ex": "They reminisced about their school days.",
+    "pron": "เรม-มิ-นิส"
+  },
+  {
+    "word": "remnant",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เศษที่หลงเหลือ",
+    "ex": "Only a few remnants of the castle remain today.",
+    "pron": "เรม-เนินท์"
+  },
+  {
+    "word": "remorse",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความสำนึกผิด",
+    "ex": "He felt deep remorse for his mistake.",
+    "pron": "รี-มอร์ส"
+  },
+  {
+    "word": "renowned",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "มีชื่อเสียง",
+    "ex": "She is a renowned artist in her country.",
+    "pron": "รี-นาวน์ด"
+  },
+  {
+    "word": "repercussion",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ผลกระทบที่ตามมา",
+    "ex": "Every action has its repercussions.",
+    "pron": "รี-เพอร์-คัช-ชั่น"
+  },
+  {
+    "word": "resemble",
+    "pos": "v.",
+    "level": "B2",
+    "th": "คล้ายกับ",
+    "ex": "The twins resemble each other closely.",
+    "pron": "รี-เซม-เบิล"
+  },
+  {
+    "word": "resonate",
+    "pos": "v.",
+    "level": "C1",
+    "th": "สอดคล้อง / กระทบใจ",
+    "ex": "Her message resonated with the entire audience.",
+    "pron": "เรซ-โซ-เนท"
+  },
+  {
+    "word": "retreat",
+    "pos": "v., n.",
+    "level": "B2",
+    "th": "ล่าถอย / สถานที่พักผ่อน",
+    "ex": "The soldiers were forced to retreat.",
+    "pron": "รี-ทรีท"
+  },
+  {
+    "word": "ridiculous",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "น่าขบขัน / ไร้สาระ",
+    "ex": "It's ridiculous to wait in line for two hours.",
+    "pron": "ริ-ดิค-คิว-เลิส"
+  },
+  {
+    "word": "robust",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "แข็งแรง / มั่นคง",
+    "ex": "The company has a robust financial strategy.",
+    "pron": "โร-บัสท์"
+  },
+  {
+    "word": "sabotage",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "การก่อวินาศกรรม / ทำลาย",
+    "ex": "Workers threatened to sabotage the production line.",
+    "pron": "แซ็บ-เบอะ-ทาจ"
+  },
+  {
+    "word": "salvage",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "กอบกู้ / ช่วยเหลือทรัพย์สิน",
+    "ex": "They managed to salvage some furniture from the fire.",
+    "pron": "แซล-วิดจ์"
+  },
+  {
+    "word": "sanctuary",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เขตอนุรักษ์ / สถานที่ลี้ภัย",
+    "ex": "The bird sanctuary protects hundreds of species.",
+    "pron": "แซงค์-ชู-อะ-รี่"
+  },
+  {
+    "word": "sarcastic",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เหน็บแนม / เสียดสี",
+    "ex": "He made a sarcastic comment about her driving.",
+    "pron": "ซาร์-แคส-ติค"
+  },
+  {
+    "word": "savvy",
+    "pos": "adj., n.",
+    "level": "C1",
+    "th": "ฉลาดเชี่ยวชาญ / ช่ำชอง",
+    "ex": "She has great business savvy.",
+    "pron": "แซฟ-วี่"
+  },
+  {
+    "word": "scapegoat",
+    "pos": "n.",
+    "level": "C1",
+    "th": "แพะรับบาป",
+    "ex": "He was made the scapegoat for the team's failure.",
+    "pron": "สเกป-โกท"
+  },
+  {
+    "word": "scarcity",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความขาดแคลน",
+    "ex": "The region suffers from a scarcity of clean water.",
+    "pron": "สแก-ซิ-ตี้"
+  },
+  {
+    "word": "scold",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ดุ / ตำหนิ",
+    "ex": "The teacher scolded the students for being late.",
+    "pron": "สโกลด์"
+  },
+  {
+    "word": "scorn",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "การดูหมิ่น / ดูถูก",
+    "ex": "She treated his apology with scorn.",
+    "pron": "สกอร์น"
+  },
+  {
+    "word": "scramble",
+    "pos": "v.",
+    "level": "B2",
+    "th": "รีบเร่งทำ / แย่งชิง",
+    "ex": "They scrambled to finish the report before the deadline.",
+    "pron": "สแครม-เบิ้ล"
+  },
+  {
+    "word": "scrap",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "เศษ / ยกเลิกทิ้ง",
+    "ex": "The company decided to scrap the old plan.",
+    "pron": "สแครพ"
+  },
+  {
+    "word": "screech",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ร้องเสียงแหลม / เสียงเบรกดัง",
+    "ex": "The car screeched to a halt.",
+    "pron": "สกรีช"
+  },
+  {
+    "word": "scribble",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เขียนหวัดๆ / ขีดเขียนลวกๆ",
+    "ex": "He scribbled a note and left it on the desk.",
+    "pron": "สคริบ-เบิ้ล"
+  },
+  {
+    "word": "scrub",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ขัดถู",
+    "ex": "She scrubbed the pots until they were spotless.",
+    "pron": "สครับ"
+  },
+  {
+    "word": "scrutinize",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ตรวจสอบอย่างละเอียด",
+    "ex": "Auditors scrutinized every transaction closely.",
+    "pron": "สครู-ทิ-ไนซ์"
+  },
+  {
+    "word": "sculpt",
+    "pos": "v.",
+    "level": "B2",
+    "th": "แกะสลัก / ปั้น",
+    "ex": "The artist sculpted a figure from a single block of marble.",
+    "pron": "สคัลพท์"
+  },
+  {
+    "word": "seamless",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ไร้รอยต่อ / ราบรื่นไม่สะดุด",
+    "ex": "The app offers a seamless shopping experience.",
+    "pron": "ซีม-เหลิส"
+  },
+  {
+    "word": "secluded",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "สงบเงียบ / ห่างไกลผู้คน",
+    "ex": "They stayed in a secluded cabin in the woods.",
+    "pron": "ซิ-คลู-ดิด"
+  },
+  {
+    "word": "secrecy",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความลับ",
+    "ex": "The project was carried out in complete secrecy.",
+    "pron": "ซี-เคร่อ-ซี่"
+  },
+  {
+    "word": "secretive",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ปิดบัง / ไม่เปิดเผย",
+    "ex": "He's very secretive about his personal life.",
+    "pron": "ซี-เคร่อ-ทิฟ"
+  },
+  {
+    "word": "seduce",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ยั่วยวน / ล่อลวง",
+    "ex": "Advertisers try to seduce customers with attractive images.",
+    "pron": "ซิ-ดูส"
+  },
+  {
+    "word": "seemingly",
+    "pos": "adv.",
+    "level": "B2",
+    "th": "ดูราวกับว่า / เหมือนว่า",
+    "ex": "She remained seemingly calm during the crisis.",
+    "pron": "ซีม-มิ่ง-ลี่"
+  },
+  {
+    "word": "self-conscious",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "กระดากอาย / เขินอาย",
+    "ex": "He felt self-conscious about his accent.",
+    "pron": "เซลฟ์-คอน-เชิส"
+  },
+  {
+    "word": "sentiment",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความรู้สึก / ทัศนคติ",
+    "ex": "Public sentiment shifted against the new policy.",
+    "pron": "เซ็น-ทิ-เมิ่นท์"
+  },
+  {
+    "word": "serenity",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความสงบเงียบ",
+    "ex": "The lake offered a deep sense of serenity.",
+    "pron": "เซอะ-เรน-นิ-ตี้"
+  },
+  {
+    "word": "shabby",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เก่าซอมซ่อ / ขาดวิ่น",
+    "ex": "He wore a shabby old coat.",
+    "pron": "แชบ-บี้"
+  },
+  {
+    "word": "shameful",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "น่าอับอาย",
+    "ex": "It was a shameful way to treat a guest.",
+    "pron": "เชม-เฟิ่ล"
+  },
+  {
+    "word": "shed",
+    "pos": "v.",
+    "level": "B2",
+    "th": "สลัดทิ้ง / ผลัด(ขน, ใบไม้)",
+    "ex": "The company plans to shed hundreds of jobs.",
+    "pron": "เชด"
+  },
+  {
+    "word": "sheer",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ล้วนๆ / แท้ๆ",
+    "ex": "It was sheer luck that we found the place.",
+    "pron": "เชียร์"
+  },
+  {
+    "word": "shield",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "โล่ / ปกป้องคุ้มกัน",
+    "ex": "The umbrella shielded her from the rain.",
+    "pron": "ชีลด์"
+  },
+  {
+    "word": "shiver",
+    "pos": "v.",
+    "level": "B2",
+    "th": "สั่นสะท้าน(หนาว)",
+    "ex": "She shivered in the cold wind.",
+    "pron": "ชิฟ-เว่อร์"
+  },
+  {
+    "word": "shortcoming",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ข้อบกพร่อง / จุดอ่อน",
+    "ex": "Despite its shortcomings, the plan was approved.",
+    "pron": "ชอร์ท-คัม-มิ่ง"
+  },
+  {
+    "word": "shrewd",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เฉลียวฉลาด / มีไหวพริบ",
+    "ex": "She's a shrewd businesswoman.",
+    "pron": "ชรูด"
+  },
+  {
+    "word": "shrug",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ยักไหล่",
+    "ex": "He shrugged and said nothing.",
+    "pron": "ชรัก"
+  },
+  {
+    "word": "tactful",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "สุภาพรอบคอบ / รู้จักกาลเทศะ",
+    "ex": "She gave tactful feedback to avoid hurting his feelings.",
+    "pron": "แทคท์-เฟิ่ล"
+  },
+  {
+    "word": "tally",
+    "pos": "v., n.",
+    "level": "C1",
+    "th": "นับรวม / ยอดรวม",
+    "ex": "We tallied the votes at the end of the meeting.",
+    "pron": "แทล-ลี่"
+  },
+  {
+    "word": "tamper",
+    "pos": "v.",
+    "level": "C1",
+    "th": "แก้ไขโดยมิชอบ / แทรกแซง",
+    "ex": "Someone had tampered with the lock.",
+    "pron": "แทม-เพ่อร์"
+  },
+  {
+    "word": "trigger",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "สิ่งกระตุ้น / ก่อให้เกิด",
+    "ex": "Stress can trigger headaches.",
+    "pron": "ทริก-เก่อร์"
+  },
+  {
+    "word": "temper",
+    "pos": "n.",
+    "level": "B2",
+    "th": "อารมณ์ / นิสัยใจร้อน",
+    "ex": "He lost his temper during the meeting.",
+    "pron": "เท็ม-เพ่อร์"
+  },
+  {
+    "word": "template",
+    "pos": "n.",
+    "level": "B2",
+    "th": "แม่แบบ / รูปแบบ",
+    "ex": "Use this template for your report.",
+    "pron": "เท็ม-เพลท"
+  },
+  {
+    "word": "tenacity",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความแน่วแน่ / ความไม่ย่อท้อ",
+    "ex": "Her tenacity helped her overcome many obstacles.",
+    "pron": "เทอะ-แนส-ซิ-ตี้"
+  },
+  {
+    "word": "tenure",
+    "pos": "n.",
+    "level": "C1",
+    "th": "วาระการดำรงตำแหน่ง",
+    "ex": "During her tenure as CEO, the company grew rapidly.",
+    "pron": "เท็น-เย่อร์"
+  },
+  {
+    "word": "terrace",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ระเบียง",
+    "ex": "We had breakfast on the terrace overlooking the sea.",
+    "pron": "เท่อ-เหริส"
+  },
+  {
+    "word": "territorial",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "หวงถิ่น / เกี่ยวกับอาณาเขต",
+    "ex": "Dogs can become territorial about their yard.",
+    "pron": "เทอ-ริ-ทอ-เรียล"
+  },
+  {
+    "word": "thaw",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ละลาย(น้ำแข็ง) / คลี่คลาย",
+    "ex": "Let the frozen chicken thaw before cooking.",
+    "pron": "ธอว์"
+  },
+  {
+    "word": "therapeutic",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ช่วยบำบัดรักษา / เยียวยาจิตใจ",
+    "ex": "Gardening can be very therapeutic.",
+    "pron": "เธ่อ-ระ-พิว-ติค"
+  },
+  {
+    "word": "thermal",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "เกี่ยวกับความร้อน",
+    "ex": "The hotel has a thermal spring pool.",
+    "pron": "เธ่อร์-เมิ่ล"
+  },
+  {
+    "word": "thrifty",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ประหยัด / มัธยัสถ์",
+    "ex": "Being thrifty helped them save for a house.",
+    "pron": "ธริฟ-ที่"
+  },
+  {
+    "word": "thrill",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "ความตื่นเต้น",
+    "ex": "The rollercoaster gave us a real thrill.",
+    "pron": "ธริล"
+  },
+  {
+    "word": "thriller",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เรื่องระทึกขวัญ",
+    "ex": "We watched a thriller last night.",
+    "pron": "ธริล-เล่อร์"
+  },
+  {
+    "word": "throb",
+    "pos": "v.",
+    "level": "C1",
+    "th": "เต้นตุบๆ(เจ็บปวด)",
+    "ex": "Her head throbbed with pain.",
+    "pron": "ธร็อบ"
+  },
+  {
+    "word": "timber",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ไม้ซุง",
+    "ex": "The house is built from local timber.",
+    "pron": "ทิม-เบ่อร์"
+  },
+  {
+    "word": "tilt",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เอียง",
+    "ex": "She tilted her head to listen more closely.",
+    "pron": "ทิลท์"
+  },
+  {
+    "word": "tint",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "สีอ่อน / แต้มสี",
+    "ex": "The windows have a slight blue tint.",
+    "pron": "ทินท์"
+  },
+  {
+    "word": "toil",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ตรากตรำทำงาน",
+    "ex": "Farmers toiled in the fields all day.",
+    "pron": "ทอยล์"
+  },
+  {
+    "word": "token",
+    "pos": "n.",
+    "level": "B2",
+    "th": "สัญลักษณ์ / ของแทนใจ",
+    "ex": "She gave him a small gift as a token of thanks.",
+    "pron": "โท-เค่น"
+  },
+  {
+    "word": "tomb",
+    "pos": "n.",
+    "level": "B2",
+    "th": "สุสาน / หลุมฝังศพ",
+    "ex": "Tourists visited the ancient tomb.",
+    "pron": "ทูม"
+  },
+  {
+    "word": "torment",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "ความทรมาน / ทรมาน",
+    "ex": "He was tormented by guilt for years.",
+    "pron": "ทอร์-เม้นท์"
+  },
+  {
+    "word": "toss",
+    "pos": "v.",
+    "level": "B2",
+    "th": "โยน",
+    "ex": "She tossed the ball to her brother.",
+    "pron": "ทอส"
+  },
+  {
+    "word": "trample",
+    "pos": "v.",
+    "level": "C1",
+    "th": "เหยียบย่ำ",
+    "ex": "Visitors are asked not to trample the flowers.",
+    "pron": "แทรม-เพิ่ล"
+  },
+  {
+    "word": "trap",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "กับดัก",
+    "ex": "The mouse was caught in a trap.",
+    "pron": "แทรพ"
+  },
+  {
+    "word": "treacherous",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "อันตราย(เส้นทาง) / ทรยศหักหลัง",
+    "ex": "The mountain road was treacherous in winter.",
+    "pron": "เทรช-เชอ-เหริส"
+  },
+  {
+    "word": "unauthorized",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไม่ได้รับอนุญาต",
+    "ex": "Unauthorized access to the building is prohibited.",
+    "pron": "อัน-ออ-เธอะ-ไรซด์"
+  },
+  {
+    "word": "unbiased",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ไม่ลำเอียง / เป็นกลาง",
+    "ex": "We need an unbiased opinion on this issue.",
+    "pron": "อัน-ไบ-เอิสท์"
+  },
+  {
+    "word": "uncanny",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "แปลกจนน่าขนลุก / คล้ายกันอย่างน่าประหลาด",
+    "ex": "She has an uncanny resemblance to her mother.",
+    "pron": "อัน-แคน-นี่"
+  },
+  {
+    "word": "uncover",
+    "pos": "v.",
+    "level": "B2",
+    "th": "เปิดเผย / ค้นพบ",
+    "ex": "Investigators uncovered new evidence in the case.",
+    "pron": "อัน-คัฟ-เว่อร์"
+  },
+  {
+    "word": "underdog",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ผู้เสียเปรียบ / ตัวรอง",
+    "ex": "The underdog team won the championship.",
+    "pron": "อัน-เด่อร์-ดอก"
+  },
+  {
+    "word": "undertaking",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ภารกิจสำคัญ / งานใหญ่ที่รับผิดชอบ",
+    "ex": "Building the new bridge was a huge undertaking.",
+    "pron": "อัน-เด่อร์-เท-กิ้ง"
+  },
+  {
+    "word": "unfounded",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ไม่มีมูลความจริง",
+    "ex": "The rumors turned out to be unfounded.",
+    "pron": "อัน-เฟาน์-ดิด"
+  },
+  {
+    "word": "unorthodox",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "แหวกแนว / นอกรีต",
+    "ex": "He used unorthodox methods to solve the problem.",
+    "pron": "อัน-ออร์-เธอะ-ดอกซ์"
+  },
+  {
+    "word": "unruly",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ควบคุมยาก / ดื้อรั้น",
+    "ex": "The teacher struggled with the unruly class.",
+    "pron": "อัน-รู-ลี่"
+  },
+  {
+    "word": "unwind",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ผ่อนคลาย",
+    "ex": "She likes to unwind by reading a book.",
+    "pron": "อัน-วายด์"
+  },
+  {
+    "word": "upbeat",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ร่าเริง / มองโลกในแง่ดี",
+    "ex": "He stayed upbeat despite the setback.",
+    "pron": "อัพ-บีท"
+  },
+  {
+    "word": "upheaval",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความปั่นป่วนวุ่นวาย",
+    "ex": "The company faced major upheaval after the merger.",
+    "pron": "อัพ-ฮี-เวิ่ล"
+  },
+  {
+    "word": "usher",
+    "pos": "v.",
+    "level": "C1",
+    "th": "นำพาเข้าสู่ / เป็นสัญญาณเริ่มต้นของ",
+    "ex": "The new law ushered in a period of reform.",
+    "pron": "อัช-เชอร์"
+  },
+  {
+    "word": "utmost",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "สูงสุด / อย่างที่สุด",
+    "ex": "Handle the documents with the utmost care.",
+    "pron": "อัท-โมสท์"
+  },
+  {
+    "word": "vacate",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ย้ายออก / สละตำแหน่ง",
+    "ex": "Tenants must vacate the apartment by Friday.",
+    "pron": "เวอะ-เคท"
+  },
+  {
+    "word": "vapor",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ไอน้ำ",
+    "ex": "Water vapor rose from the hot spring.",
+    "pron": "เว-เพ่อร์"
+  },
+  {
+    "word": "veer",
+    "pos": "v.",
+    "level": "C1",
+    "th": "หักเลี้ยวกะทันหัน / เบี่ยงเบน",
+    "ex": "The car veered off the road to avoid the dog.",
+    "pron": "เวียร์"
+  },
+  {
+    "word": "vein",
+    "pos": "n.",
+    "level": "B2",
+    "th": "เส้นเลือดดำ",
+    "ex": "Blood flows back to the heart through veins.",
+    "pron": "เวน"
+  },
+  {
+    "word": "ventilate",
+    "pos": "v.",
+    "level": "B2",
+    "th": "ระบายอากาศ",
+    "ex": "Open the windows to ventilate the room.",
+    "pron": "เว็น-ทิ-เลท"
+  },
+  {
+    "word": "veto",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "การยับยั้ง / ใช้สิทธิ์ยับยั้ง",
+    "ex": "The manager used her veto to stop the risky plan.",
+    "pron": "วี-โท"
+  },
+  {
+    "word": "vigilant",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "ระแวดระวัง / เฝ้าสังเกต",
+    "ex": "Stay vigilant when walking alone at night.",
+    "pron": "วิจ-จิ-เลิ่นท์"
+  },
+  {
+    "word": "vineyard",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ไร่องุ่น",
+    "ex": "They own a small vineyard in the countryside.",
+    "pron": "วิน-เหยิร์ด"
+  },
+  {
+    "word": "visionary",
+    "pos": "adj., n.",
+    "level": "C1",
+    "th": "มีวิสัยทัศน์ / ผู้มีวิสัยทัศน์กว้างไกล",
+    "ex": "She is known as a visionary leader in the industry.",
+    "pron": "วิ-ชะ-เนอ-รี่"
+  },
+  {
+    "word": "vocal",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "กล้าแสดงความเห็นอย่างชัดเจน",
+    "ex": "Residents were vocal about their concerns.",
+    "pron": "โว-เคิ่ล"
+  },
+  {
+    "word": "voluntary",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "โดยสมัครใจ",
+    "ex": "Attendance at the meeting is voluntary.",
+    "pron": "วอล-เอิน-ทรี่"
+  },
+  {
+    "word": "vice",
+    "pos": "n.",
+    "level": "B2",
+    "th": "ความชั่วร้าย / อุปนิสัยเสีย",
+    "ex": "Smoking is his only vice.",
+    "pron": "ไวซ์"
+  },
+  {
+    "word": "wager",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "การพนัน / พนันขันต่อ",
+    "ex": "He made a wager on the outcome of the game.",
+    "pron": "เว-เจ่อร์"
+  },
+  {
+    "word": "wane",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ลดลง / เสื่อมถอย",
+    "ex": "Public interest in the topic began to wane.",
+    "pron": "เวน"
+  },
+  {
+    "word": "waver",
+    "pos": "v.",
+    "level": "C1",
+    "th": "ลังเล / โอนเอน",
+    "ex": "Her confidence never wavered during the interview.",
+    "pron": "เว-เว่อร์"
+  },
+  {
+    "word": "wedge",
+    "pos": "n., v.",
+    "level": "B2",
+    "th": "ลิ่ม",
+    "ex": "He used a wedge to keep the door open.",
+    "pron": "เวจ"
+  },
+  {
+    "word": "whim",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ความคิดชั่ววูบ",
+    "ex": "She bought the dress on a whim.",
+    "pron": "วิม"
+  },
+  {
+    "word": "wholesale",
+    "pos": "adj., n.",
+    "level": "B2",
+    "th": "ขายส่ง",
+    "ex": "The store sells goods at wholesale prices.",
+    "pron": "โฮล-เซล"
+  },
+  {
+    "word": "wicked",
+    "pos": "adj.",
+    "level": "B2",
+    "th": "ชั่วร้าย",
+    "ex": "The story features a wicked witch.",
+    "pron": "วิค-คิด"
+  },
+  {
+    "word": "withdrawal",
+    "pos": "n.",
+    "level": "B2",
+    "th": "การถอน(เงิน, ตัว)",
+    "ex": "He made a cash withdrawal from the bank.",
+    "pron": "วิธ-ดรอ-เอิ่ล"
+  },
+  {
+    "word": "xenophobic",
+    "pos": "adj.",
+    "level": "C1",
+    "th": "เกลียดกลัวชาวต่างชาติ",
+    "ex": "Some of his comments were seen as xenophobic and offensive.",
+    "pron": "เซ่น-โอะ-โฟ-บิค"
+  },
+  {
+    "word": "yardstick",
+    "pos": "n.",
+    "level": "C1",
+    "th": "มาตรวัด / เกณฑ์เปรียบเทียบ",
+    "ex": "Test scores shouldn't be the only yardstick for success.",
+    "pron": "ยาร์ด-สติค"
+  },
+  {
+    "word": "yoke",
+    "pos": "n., v.",
+    "level": "C1",
+    "th": "แอก / ผูกมัดเข้าด้วยกัน",
+    "ex": "The two firms were yoked together after the deal.",
+    "pron": "โยค"
+  },
+  {
+    "word": "zealot",
+    "pos": "n.",
+    "level": "C1",
+    "th": "ผู้คลั่งไคล้สุดโต่ง",
+    "ex": "He supported the cause with the passion of a zealot.",
+    "pron": "เซล-เหลิ่ท"
   }
 ]

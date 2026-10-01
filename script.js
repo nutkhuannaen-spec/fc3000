@@ -1,8 +1,10 @@
 let ALL_WORDS = [];
+let currentWords = [];
 
 const board = document.getElementById('board');
 const shuffleBtn = document.getElementById('shuffleBtn');
 const recallBtn = document.getElementById('recallBtn');
+const shufflePositionsBtn = document.getElementById('shufflePositionsBtn');
 const subtitle = document.querySelector('.subtitle');
 
 const STORAGE_KEY = 'vocab_studied_words';
@@ -51,11 +53,30 @@ function getRandomN(source, n) {
   return picked;
 }
 
+function shuffleInPlace(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function renderBoard(words, { animate = false } = {}) {
+  currentWords = words;
+  board.innerHTML = '';
+  words.forEach((w, i) => {
+    const card = buildCard(w);
+    if (animate) {
+      card.classList.add('shuffle-in');
+      card.style.animationDelay = `${i * 40}ms`;
+    }
+    board.appendChild(card);
+  });
+}
+
 function renderRandomFive() {
   subtitle.textContent = 'Oxford 3000 — Random 5';
-  const words = getRandomN(ALL_WORDS, 5);
-  board.innerHTML = '';
-  words.forEach(w => board.appendChild(buildCard(w)));
+  renderBoard(getRandomN(ALL_WORDS, 5));
 }
 
 function renderRecall() {
@@ -63,14 +84,24 @@ function renderRecall() {
 
   if (pool.length === 0) {
     subtitle.textContent = 'Recall';
+    currentWords = [];
     board.innerHTML = '<p style="color:#8a8a8a">You haven\'t reviewed any words yet. Flip a card to start building your recall list.</p>';
     return;
   }
 
   subtitle.textContent = `Recall — ${Math.min(20, pool.length)} of ${pool.length} reviewed`;
-  const words = getRandomN(pool, 20);
-  board.innerHTML = '';
-  words.forEach(w => board.appendChild(buildCard(w)));
+  renderBoard(getRandomN(pool, 20));
+}
+
+function shuffleCardPositions() {
+  if (currentWords.length === 0) return;
+
+  const cards = board.querySelectorAll('.card');
+  cards.forEach(card => card.classList.add('fade-out'));
+
+  setTimeout(() => {
+    renderBoard(shuffleInPlace([...currentWords]), { animate: true });
+  }, 180);
 }
 
 function speak(text) {
@@ -119,5 +150,6 @@ function buildCard(w) {
 
 shuffleBtn.addEventListener('click', renderRandomFive);
 recallBtn.addEventListener('click', renderRecall);
+shufflePositionsBtn.addEventListener('click', shuffleCardPositions);
 
 loadWords();
